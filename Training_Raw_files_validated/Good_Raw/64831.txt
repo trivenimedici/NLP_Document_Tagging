@@ -1,0 +1,15 @@
+From: chongo@toad.com (Landon C. Noll)
+Subject: 10th International Obfuscated C Code Contest Opening (part 2 of 2)
+Article-I.D.: toad.32195
+Expires: 7 May 93 00:00:00 GMT
+Reply-To: chongo@toad.com.UUCP (Landon C. Noll)
+Distribution: world
+Organization: Nebula Consultants in San Francisco
+Lines: 1382
+
+Enclosed are the rules, guidelines and related information for the 10th
+International Obfuscated C Code Contest.  (This is part 2 of a 2 part
+shar file).
+
+Enjoy!
+

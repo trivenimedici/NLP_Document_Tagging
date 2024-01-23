@@ -1,0 +1,173 @@
+From: ware@cis.ohio-state.edu (Peter Ware)
+Subject: comp.windows.x.intrinsics Frequently Asked Questions (FAQ)
+Supersedes: <FAQ-Xt_728840923@oboe.cis.ohio-state.edu>
+Organization: The Ohio State University Dept. of Computer and Info. Science
+Lines: 1609
+Expires: 14 May 1993 17:41:53 GMT
+Reply-To: ware@cis.ohio-state.edu
+NNTP-Posting-Host: oboe.cis.ohio-state.edu
+Summary: Answers about the X11 Window System widgets and Xt Intrinsics library
+
+Archive-name: Xt-FAQ
+Version: $Id: FAQ-Xt,v 1.28 93/04/02 12:41:12 ware Exp $
+
+		    The X Toolkit Intrinsics F.A.Q
+			  A monthly posting
+
+
+This article contains the answers to some Frequently Asked Questions
+(FAQ) from comp.windows.x about the X Toolkit Intrinsics.  To submit
+questions (preferably with an answer) send email to: ware@cis.ohio-state.edu
+
+Many FAQs, including this one, are available on the archive site
+rtfm.mit.edu in the directory pub/usenet/news.answers.  The name
+under which a FAQ is archived appears in the Archive-name 
+line at the top of the article.  This FAQ is archived as Xt-FAQ.
+
+All code fragments are public domain.  
+
+			       Contents
+0.  Xt Glossary
+1.  Software Versions
+2.  Related FAQ's
+3.  Why does my application core dump when I use signals/alarms/cthreads?
+4.  How do I use a different visual than the default?
+5.  Which visual should an application use?
+6.  Why do only Shell widgets have a Visual?
+7.  Which visual, depth and colormap do Shells inherit?
+8.  I've done all the above and I still get a BadMatch error.  Why?
+9.  Why doesn't my widget get destroyed when I call XtDestroyWidget()?
+10. How do I exit but still execute the DestroyCallbacks?
+11. How do I resize a Shell widget?
+12. Why can't XtAppAddInput() handle files?
+13. What good books and magazines are there on Xt?
+14. What Widgets are available?
+15. What alternatives to the Intrinsics are there?
+16. How do I pass a float value to XtSetValues?
+17. How do I write a resource converter?
+18. How do I open multiple displays?
+19. What changed from R3 to R4 to R5?
+20. Where are the resources loaded from?
+21. What order are callbacks executed in?
+22. How do I know if a widget is visible?
+23. How do I reparent a widget in Xt, i.e. XtReparentWidget()?
+24. Why use XtMalloc, XtFree, etc?
+25. How to debug an Xt application?
+26. Why don't XtAddInput(), XtAddTimeout() and XtAddWorkProc() work?
+27. What is and how can I implement drag and drop?
+
+----------------------------------------------------------------------
+0.  Xt Glossary
+----------------------------------------------------------------------
+
+o The Xt Intrinsics implement an object oriented interface to C code
+  to allow useful graphical components to be created.  Included with
+  this are classes that provide the base functionality: Object,
+  RectObj, Core, Composite, Constraint, Shell, OverrideShell, WMShell,
+  etc.  The terms "Xt" and "Intrinsics" are used interchangeably,
+  however, they are used very precisely to mean a specific library of the X
+  window system.  In particular, it does not include the Athena,
+  Motif, OLIT or any other widget set.  Without further widgets the
+  Intrinsics are not especially useful.
+
+o A widget refers to a user interface abstraction created via Xt.  The
+  precise use, is any object that is a subclass of the Core class.  It
+  is used loosely to refer to anything that is a subclass of the
+  Object class although these are more accurately called windowless
+  widgets or gadgets.
+
+o Xlib is the C interface to the X11 protocol.  It is one layer below
+  the Xt Intrinsics.  Typically a widget uses relatively few Xlib
+  functions because Xt provides most such services although an
+  understanding of Xlib helps with problems.
+
+----------------------------------------------------------------------
+1.  Software Versions
+----------------------------------------------------------------------
+
+The following are the latest versions of Xt based software:
+        _____________________________________________________________
+	Software	Version		Released	Next Expected
+        _____________________________________________________________
+	X11R4		patch 18			(none)
+	X11R5		patch 21	12/18/92	??
+	Athena Widgets	(see X11R5)
+	Motif		1.2.1		9/92		??
+	OLIT		??		??		??
+	Xtra		2.5		6/15/92		??
+	Xw		X11R4				(none)
+	Xcu		X11R5				(none)
+	fwf		3.4		1/11/92		4/93
+        _____________________________________________________________
+
+----------------------------------------------------------------------
+2.  Related FAQ's
+----------------------------------------------------------------------
+David B. Lewis (uunet!craft!faq) maintains the FAQ on X.  It
+is posted monthly on comp.windows.x and located on export in contrib/FAQ.
+
+Liam R. E. Quin (lee@sq.sq.com) posts an FAQ list on Open Look to 
+comp.windows.x.  
+
+Jan Newmarch (jan@pandonia.canberra.edu.au) posts an FAQ list on Motif 
+to comp.windows.x.motif.
+
+Peter Ware (ware@cis.ohio-state.edu) posts an FAQ list for
+comp.windows.x.intrinsics; it is on export in contrib/FAQ-Xt.
+
+----------------------------------------------------------------------
+3.  Why does my application core dump when I use signals/alarms/cthreads?
+----------------------------------------------------------------------
+
+In brief, Xlib, Xt and most widget sets have no mutual exclusion for
+critical sections.  Any interrupt handler is likely to leave one of
+the above libraries in an inconsistent state -- such as all the
+appropriate flags not yet set, dangling pointers, in the middle of a
+list traversal, etc.  Note that the ANSI C standard points out that
+behavior of a signal handler is undefined if the signal handler calls
+any function other than signal() itself, so this is not a problem
+specific to Xlib and Xt; the POSIX specification mentions other
+functions which may be called safely but it may not be assumed that
+these functions are called by Xlib or Xt functions.
+
+The only safe way to deal with signals is to set a flag in the
+interrupt handler.  This flag later needs to be checked either by a
+work procedure or a timeout callback.  It is incorrect to add either
+of these in the interrupt handler.  As another note, it is dangerous
+to add a work procedure that never finishes.  This effectively
+preempts any work procedures previously added and so they will never
+be called.  Another option is to open a pipe, tell the event loop
+about the read end using XtAppAddInput() and then the signal handler
+can write a byte to the write end of the pipe for each signal.
+However, this could deadlock your process if the pipe fills up.
+
+Why don't the Intrinsics deal with this problem?  Primarily because it
+is supposed to be a portable layer to any hardware and operating
+system.   Is that a good enough reason -- I don't think so.
+
+        Note: the article in The X Journal 1:4 and the example in O'Reilly
+Volume 6 are in error.
+
+----------------------------------------------------------------------
+4.  How do I use a different visual than the default?
+----------------------------------------------------------------------
+
+This requires a more complicated answer than it should.  A window has
+three things that are visual specific -- the visual, colormap and
+border pixmap.  All widgets have their own Colormap and BorderPixmap
+resource; only shell widgets have Visual resources (another questions
+deals with why shells have a Visual).  The default value of these
+resources is CopyFromParent which does exactly what it says.  In the
+shell widget CopyFromParent gets evalulated as DefaultVisualOfScreen
+and DefaultColormapOfScreen.  When any one of the three resources is
+not properly set, a BadMatch error occurs when the window is
+created.  They are not properly set because each of the values depends
+on the visual being used.  
+
+How to get this to work?  There are two parts to the answer.  The
+first is if you want an application to start with a particular visual
+and the second is if you want a particular shell within an application
+to start with a different visual.  The second is actually easier
+because the basic information you need is available.  The first is a
+little harder because you'll need to initialize much of the toolkit
+yourself in order to determine the needed information.

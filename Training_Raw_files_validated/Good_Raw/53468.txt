@@ -1,0 +1,700 @@
+From: hamlet@stein.u.washington.edu (Mitch McGowan)
+Subject: rec.sport.hockey Frequently Asked Questions
+Organization: University of Washington
+Lines: 1768
+Expires: Mon, 03 May 93 00:00:01 EDT
+Reply-To: hamlet@u.washington.edu
+NNTP-Posting-Host: stein.u.washington.edu
+
+Archive-name: hockey-faq
+
+rec.sport.hockey answers to Frequently Asked Questions and other news:
+ 
+Contents:
+
+0. New Info.
+1. NHL
+2. NHL Minor Leagues
+3. College Hockey (North America)
+4. Other leagues (e.g. Europe, Canada Cup tournament)
+5. E-mail files
+6. USENET Hockey Pool
+7. Up-coming Dates
+8. Answers to some frequently asked questions
+9. Miscellaneous
+ 
+ Send comments, suggestions and criticisms regarding this FAQ list via e-
+mail to hamlet@u.washington.edu.
+ 
+--------------------------------------------------------------------------
+ 
+ 0. New Info.
+ 
+ This section will describe additions since the last post so that you can 
+decide if there is anything worth reading. Paragraphs containing new 
+information will be preceded by two asterisks (**).
+
+ 1.: New Anaheim contact, Winnipeg to keep affiliate in Moncton.
+ 2.: New Milwaukee contact, IHL broadcaster of the year named, Rheaume to 
+start against Cyclones, San Diego sets record.
+ 3.: Ticket info included for 1994 NCAA Division I Championships.
+ 4.: World Championship Pool B results listed, Sweden Hockey Games final 
+standings listed, Swedish Elite League final standings listed, new Olypmic 
+Hockey mailing list.
+ 5.: New Montreal mailing list address.
+ 6.: 
+ 7.: 
+ 8.: 
+ 9.: 
+
+--------------------------------------------------------------------------
+ 
+  1. NHL - National Hockey League
+ 
+ For detailed information concerning a team (particularly where to get 
+tickets and merchandise, where to watch games in town....), send e-mail to 
+the net contact(s) for the team.
+
+                             First   # of   Last
+ Team                   Div  Season  Cups   Cup    Net Contacts
+ ---------------------  ---  ------  ----  ------ ----------------------
+**
+ Anaheim Mighty Ducks    -   93-94      -    -    Kris Myers
+                                                  kris@fs2.assist.uci.edu
+ Boston Bruins           A   24-25      5  71-72  
+ Buffalo Sabres          A   70-71      0    -    Jeff Horvath
+                                                  jhorvath@macc.wisc.edu
+ Calgary Flames          S   80-81*     1  88-89  CALDWELL8102@mtroyal.ab.ca
+ Chicago Blackhawks      N   26-27      3  60-61  John Scholvin
+                                                  scholvin@casbah.acns.nwu.edu
+ Detroit Red Wings       N   33-34*     7  54-55  SGLENN@cmsa.gmr.com
+ Edmonton Oilers         S   79-80*     5  89-90  Andrew Scott
+                                                  andrew@idacom.hp.com
+ Hartford Whalers        A   79-80*     0    -    Matthew Olsen
+                                                  dmolsen@athena.mit.edu
+ Los Angeles Kings       S   67-68      0    -    Stan Willis
+                                                  willis@empire.dnet.hac.com
+ Minnesota North Stars   N   67-68*     0    -    Mitch McGowan
+                                                  hamlet@u.washington.edu
+ Montreal Canadiens      A   17-18     22  85-86  
+ New Jersey Devils       P   82-83*     0    -    
+ New York Islanders      P   72-73      4  82-83  Mark Anania
+                                                  ananim@rpi.edu
+ New York Rangers        P   26-27      3  39-40  Paul Romano
+                                                  romano@monolith.bellcore.com
+ Ottawa Senators         A   92-93      0    -    Scott Simpson
+                                                  simpson@bnr.ca
+ Philadelphia Flyers     P   67-68      2  74-75  Pete Clark
+                                                  seth@hos1cad.att.com
+ Pittsburgh Penguins     P   67-68      2  91-92  Lori Iannamico
+                                                  lli+@cs.cmu.edu
+                                                  Thomas Sullivan
+                                                  tms@cs.cmu.edu
+ Quebec Nordiques        A   79-80*     0    -
+ St. Louis Blues         N   67-68      0    -    Joseph Achkar
+                                                  jca2@cec1.wustl.edu
+ San Jose Sharks         S   91-92      0    -    Nelson Lu
+                                                  claudius@leland.stanford.edu
+**
+ South Florida           -   93-94      -    -    
+ Tampa Bay Lightning     N   92-93      0    -    Tom Wilson
+                                                  wilson@eola.cs.ucf.edu
+ Toronto Maple Leafs     N   26-27*    11  66-67  Darryl Gamble
+                                                  darryl@cs.yorku.ca
+ Vancouver Canucks       S   70-71      0    -    Alan Chim
+                                                  chim@sfu.ca
+ Washington Capitals     P   74-75      0    -    David Lu
+                                                  david@eng.umd.edu
+ Winnipeg Jets           S   79-80*     0    -    umturne4@ccu.umanitoba.ca
+ 
+ A=Adams N=Norris P=Patrick S=Smythe
+ 
+ *Calgary: formerly Atlanta Flames (72/73-79/80)
+  Detroit: formerly Detroit Cougars (26/27-29/30) -> Detroit Falcons 
+(30/31-32/33)
+  Edmonton: formerly Alberta Oilers (WHA) (72/73) -> Edmonton Oilers (WHA) 
+(72/73-78/79)
+  Hartford: formerly New England Whalers (WHA) (72/73-78/79)
+  Minnesota: Cleveland Barons were merged with Minnesota for the 1978/79 
+season.
+  New Jersey: formerly Kansas City Scouts (74/75-75/76) -> Colorado 
+Rockies (76/77-81/82)
+  Quebec: formerly Quebec Nordiques (WHA) (72/73-78/79)
+  Toronto: formerly Toronto Arenas (17/18-18/19) -> Toronto St. Patricks 
+(19/20-25/26)
+  Winnipeg: formerly Winnipeg Jets (WHA) (72/73-78/79)
+
+ Teams with mailing lists, see section 5 for addresses: Boston, Buffalo, 
+Los Angeles, Montreal, Philadelphia, Pittsburgh, St. Louis, San Jose, 
+Tampa Bay, Vancouver, Washington.
+
+-----
+ 
+- Schedule
+
+ 1992-1993 Schedule for the NHL
+
+                                 April
+    Sun       Mon       Tue       Wed       Thu       Fri       Sat
++---------+---------+---------+---------+---------+---------+---------+
+!         !         !         !         ! 1       ! 2       ! 3       !
+!         !         !         !         !Min @ Cal!Mon @ Was!Buf @ Bos!
+!         !         !         !         !Det @ Chi!NYI @ NYR!Cal @ SJ !
+!         !         !         !         !Har @ Pit!         !Chi @ StL!
+!         !         !         !         !Que @ Ott!         !Van @ Det!
+!         !         !         !         !Tor @ Phi!         !Win @ Edm!
+!         !         !         !         !Win @ SJ !         !Ott @ Har!
+!         !         !         !         !Van @ TB !         !Min @ LA !
+!         !         !         !         !         !         !Mon @ NYI!
+!         !         !         !         !         !         !NJ  @ Tor!
+!         !         !         !         !         !         !TB  @ Phi!
+!         !         !         !         !         !         !Pit @ Que!
++---------+---------+---------+---------+---------+---------+---------+
+! 4       ! 5       ! 6       ! 7       ! 8       ! 9       !10       !
+!Bos @ Buf!Har @ NYR!Bos @ Que!Edm @ Van!Que @ Bos!Van @ Cal!Bos @ Mon!
+!Cal @ SJ !         !Buf @ Min!Har @ Ott!Chi @ NYI!Pit @ NYR!Buf @ Det!
+!StL @ Chi!         !Cal @ LA !Mon @ Pit!Det @ TB !         !Chi @ TB !
+!Pit @ NJ !         !Edm @ SJ !NYR @ NJ !SJ  @ LA !         !Har @ Que!
+!NYR @ Was!         !NYI @ Was!         !Was @ Phi!         !LA  @ SJ !
+!Van @ Ott!         !Phi @ Win!         !Tor @ Win!         !StL @ Min!
+!         !         !StL @ TB !         !         !         !NJ  @ Was!
+!         !         !         !         !         !         !Ott @ NYI!
+!         !         !         !         !         !         !NYR @ Pit!
+!         !         !         !         !         !         !Phi @ Tor!
++---------+---------+---------+---------+---------+---------+---------+
+!11       !12       !13       !14       !15       !16       !17       !
+!Ott @ Bos!Was @ Mon!Mon @ Buf!Bos @ Ott!Phi @ Buf!         !         !
+!Que @ Buf!NYR @ Phi!Cal @ Edm!NYI @ Har!SJ  @ Cal!         !         !
+!Cal @ Van!         !Chi @ Min!Pit @ NJ !Tor @ Chi!         !         !
+!TB  @ Chi!         !LA  @ Van!Was @ NYR!Min @ Det!         !         !
+!Win @ Edm!         !Ott @ Que!         !Edm @ Win!         !         !
+!Tor @ Har!         !StL @ Tor!         !Har @ NYI!         !         !
+!Min @ StL!         !TB  @ Win!         !Van @ LA !         !         !
+!NYI @ NJ !         !         !         !NJ  @ Pit!         !         !
+!         !         !         !         !TB  @ StL!         !         !
++---------+---------+---------+---------+---------+---------+---------+
+
+ The season will begin on 10/6 and end on 4/15. Playoffs will begin on 
+4/18 and end on or before 6/14. 24 NHL regular season games will be played 
+in non-NHL cities during 92-93 season. Cities: Milwaukee (2), Sacramento 
+(2), Cleveland (2), Indianapolis, Phoenix, Miami, Oklahoma City, Dallas, 
+Atlanta, Cincinnati, Providence, Peoria, Hamilton (4), Saskatoon (4), 
+Halifax.
+
+ Here is a chart showing the number of games between the teams (84 games 
+each):
+
+      N N N P P W   B B H M O Q   C D M S T T   C E L S V W
+      J Y Y h i a   o u a o t u   h e i t B o   a d A J a i
+        I R i t s   s f r n t e   i t n L   r   l m     n n
+      = = = = = =   = = = = = =   = = = = = =   = = = = = =
+ NJ : - 7 7 7 9 7   4 4 4 3 4 4   2 2 2 2 2 2   2 2 2 2 2 2
+ NYI: 7 - 7 9 7 7   4 3 4 4 3 3   2 2 2 3 2 2   2 3 2 2 2 2
+ NYR: 7 7 - 7 7 9   3 4 3 4 3 4   2 2 2 2 3 2   2 2 2 3 2 2
+ Phi: 7 9 7 - 7 7   4 3 3 4 3 4   2 3 2 2 2 2   3 2 2 2 2 2
+ Pit: 9 7 7 7 - 7   5 4 3 3 4 3   2 2 2 2 2 2   2 3 2 2 2 2
+ Was: 7 7 9 7 7 -   3 4 4 3 4 3   3 3 2 2 2 2   2 2 2 2 2 2
+
+ Bos: 4 4 3 4 5 3   - 7 7 9 7 7   2 2 2 2 2 2   2 2 2 2 2 2
+ Buf: 4 3 4 3 4 4   7 - 9 7 7 7   2 2 2 2 2 2   2 2 2 2 3 2
+ Har: 4 4 3 3 3 4   7 9 - 7 7 7   2 2 2 3 2 2   2 2 2 2 2 3
+ Mon: 3 4 4 4 3 3   9 7 7 - 7 7   2 2 2 2 2 2   2 2 3 3 2 2
+ Ott: 4 3 3 3 4 4   7 7 7 7 - 9   2 2 2 2 2 3   2 2 2 2 2 3
+ Que: 4 3 4 4 3 3   7 7 7 7 9 -   2 2 2 2 3 3   2 2 2 2 2 2
+
+ Chi: 2 2 2 2 2 3   2 2 2 2 2 2   - 9 7 7 7 7   3 4 5 3 4 3
+ Det: 2 2 2 3 2 3   2 2 2 2 2 2   9 - 7 7 7 7   4 3 4 4 3 3
+ Min: 2 2 2 2 2 2   2 2 2 2 2 2   7 7 - 9 7 7   4 4 3 3 5 4
+ StL: 2 3 2 2 2 2   2 2 3 2 2 2   7 7 9 - 7 7   4 3 3 3 4 4
+ TB : 2 2 3 2 2 2   2 2 2 2 2 3   7 7 7 7 - 9   3 4 3 4 3 4
+ Tor: 2 2 2 2 2 2   2 2 2 2 3 3   7 7 7 7 9 -   4 3 4 4 3 3
+
+ Cal: 2 2 2 3 2 2   2 2 2 2 2 2   3 4 4 4 3 4   - 7 7 9 7 7
+ Edm: 2 3 2 2 3 2   2 2 2 2 2 2   4 3 4 3 4 3   7 - 7 7 7 9
+ LA : 2 2 2 2 2 2   2 2 2 3 2 2   5 4 3 3 3 4   7 7 - 7 9 7
+ SJ : 2 2 3 2 2 2   2 2 2 3 2 2   3 4 3 3 4 4   9 7 7 - 7 7
+ Van: 2 2 2 2 2 2   2 3 2 2 2 2   4 3 5 4 3 3   7 7 9 7 - 7
+ Win: 2 2 2 2 2 2   2 2 3 2 3 2   3 3 4 4 4 3   7 9 7 7 7 -
+
+ Valerie Hammerl <hammerl@acsu.buffalo.edu> has posted this year's version 
+of nhl.c, a schedule program for NHL games.  For example, users can find 
+out the games played on a certain date or find out the next ten games 
+played by team x. A copy can be obtained by e-mailing 
+<hammerl@acsu.buffalo.edu>
+
+ Following is the neutral site schedule:
+
+ Tue 10/13:  Calgary vs. Minnesota @ Saskatoon
+ Tue 10/20:  Ottawa vs. Toronto @ Hamilton
+ Tue 11/03:  Chicago vs. Washington @ Indianapolis
+ Tue 11/17:  Toronto vs. Quebec @ Hamilton
+ Wed 11/18:  Buffalo vs. New Jersey @ Hamilton
+ Tue 12/01:  Los Angeles vs. Chicago @ Milwaukee
+ Tue 12/08:  Montreal vs. Los Angeles @ Phoenix
+ Wed 12/09:  Tampa Bay vs. New York Rangers @ Miami
+ Sun 12/13:  Edmonton vs. New York Islanders @ Oklahoma City
+ Tue 12/15:  New York Islanders vs. St. Louis @ Dallas
+ Mon 01/04:  San Jose vs. Montreal @ Sacramento
+ Mon 01/18:  Hartford vs. Winnipeg @ Saskatoon
+ Mon 02/08:  Boston vs. Pittsburgh @ Atlanta
+ Mon 02/08:  St. Louis vs. Hartford @ Peoria
+ Tue 02/16:  Philadelphia vs. Calgary @ Cincinnati
+ Sat 02/20:  Quebec vs. Tampa Bay @ Halifax
+ Mon 02/22:  New York Rangers vs. San Jose @ Sacramento
+ Mon 02/22:  Detroit vs. Philadelphia @ Cleveland
+ Tue 02/23:  Winnipeg vs. Ottawa @ Saskatoon
+ Mon 03/01:  Vancouver vs. Buffalo @ Hamilton
+ Thu 03/11:  Minnesota vs. Vancouver @ Saskatoon
+ Tue 03/16:  Washington vs. Detroit @ Milwaukee
+ Tue 03/16:  New Jersey vs. Boston @ Providence  *
+ Sun 03/21:  Pittsburgh vs. Edmonton @ Cleveland
+
+ * Location subject to change
+
+NHL Playoff Schedule:
+
+Wales Conference Division Semifinals: April 18, 20, 22, 24, 26*, 28*, 30*
+Campbell Conference Division Semifinals: April 19, 21, 23, 25, 27*, 29*, May 1*
+Wales Conference Division Finals: May 2, 4, 6, 8, 10*, 12*, 14*
+Campbell Conference Division Finals: May 3, 5, 7, 9, 11*, 13*, 15*
+Wales Conference Final: May 16, 18, 20, 22, 24*, 26*, 28*
+Campbell Conference Final: May 17, 19, 21, 23, 25*, 27*, 29*
+Stanley Cup Final: June 1, 3, 5, 7, 9*, 11*, 14*
+
+* - if neccessary
+
+-----
+ 
+- News & Scores
+ 
+ SPIKE (bryan.k.strouse) <bks@cbnewsh.cb.att.com> posts weekday news and 
+box scores (Sunday through Thursday). John P. Curcio 
+<jpc@philabs.philips.com> posts weekend news and box scores. Both maintain 
+e-mail lists for faster delivery.
+ Net contacts post team news as they see/hear/read it.
+ 
+-----
+ 
+- Notable team news (transactions and announcements)
+ 
+ Note that this information is culled from press releases and posts.  It 
+is updated each month and only information currently under discussion or 
+of continuing importance or interest will be listed for more than two 
+postings.
+ 
+ Boston Bruins
+  Boston legislators and the developers proposing a new Boston Garden 
+finally agreed to a deal that puts the 19,000-seat, $160 million project 
+back on track to be finished in September 1995.
+  Right wing Daniel Marois will be sidelined indefinitely following 
+surgery to repair a herniated disc in his back.
+**
+  Sent defenseman Glen Murray to Providence of the American Hockey League.
+
+ Buffalo Sabres
+1-800-333-PUCK (1-800-333-7825)
+  Acquired left winger Bob Errey from Pittsburgh for defenseman Mike 
+Ramsey.
+**
+  Veteran Buffalo Sabres broadcaster Ted Darling will be inducted into the 
+club's Hall of Fame Sunday, April 11.  Darling, who joined the expansion 
+Sabres in 1970, was the team's play-by-play announcer on both television 
+and radio until illness forced him out of the booth during last season.
+**
+  Recalled forwards Viktor Gordiouk and Doug MacDonald from Rochester of 
+American Hockey League.
+
+ Calgary Flames
+  Acquired veteran right wing Greg Paslawski from Philadelphia for future 
+considerations.
+**
+  Recalled center Todd Harkins and left winger Tomas Forslund from Salt 
+Lake City of International Hockey League.
+
+ Chicago Blackhawks
+        The $175 million, privately financed United Center, scheduled to 
+open in August 1994, will be home to the NBA's Chicago Bulls and NHL's 
+Chicago Blackhawks. The stadium is owned by entities controlled by the two 
+teams. The owners apparently still have not made a decision on whether the 
+old Chicago Stadium will be razed for parking space once the new facility, 
+located directly across the street, opens.
+  Suspended defenseman Craig Muni indefinitely for failing to report 
+following a trade with Edmonton.
+
+ Detroit Red Wings
+  Acquired defenseman Steve Konroyd from Hartford for a sixth-round draft 
+pick.
+  Annnounced the signing of right wing Joe Frederick, their 13th pick in 
+the 1989 National Hockey League entry draft.
+**
+  Two contrite hockey fans have returned the stolen Michigan Sports Hall 
+of Fame plaque honoring Detroit Red Wing great Gordie Howe. The bronze 
+plaque was stolen more than four years ago from Cobo Hall in Detroit, site 
+of the Michigan Hall of Fame.
+
+ Edmonton Oilers
+  Sent forward Esa Tikkanen to the New York Rangers for center Doug 
+Weight.
+  Traded defenseman Craig Muni to Chicago for forward Mike Hudson.
+  NHL commissioner Gary Bettman said the Edmonton Oilers' lease with 
+Northlands Coliseum must be improved if the team is to survive in the 
+city. Edmonton Northlands is a non-profit agency set up by the city to 
+administer exhibition facilities including the Coliseum.  Oilers owner 
+Peter Pocklington calls his lease with Northlands horrendous and has 
+threatened to move the team if he doesn't get a better deal. He makes no 
+money from parking, concessions or building advertising. The 17,313-seat 
+Coliseum also has few of the lucrative private boxes that produce 
+significant revenues for other owners.
+  Announced center Kevin Todd will not need surgery but will miss the 
+remainder of the season with a separated shoulder.
+
+ Hartford Whalers
+  Sent defenseman Steve Konroyd to Detroit for a sixth-round draft pick.
+  Acquired left winger Robert Kron and a third-round draft pick from 
+Vancouver for left winger Murray Craven and a fifth-round draft pick.
+**
+  The state of Connecticut will begin negotiations to buy the Civic Center 
+from the city in an effort to keep the financially struggling Hartford 
+Whalers franchise in the city.
+
+ Los Angeles Kings
+  Sent center John McIntyre to the New York Rangers for defenseman Mark 
+Hardy and Ottawa's fifth-round 1993 draft pick.
+
+ Minnesota North Stars
+1-800-800-0435 if calling from the U.S.
+1-800-800-0458 if calling from Canada
+  The Dallas City Council has approved an agreement with the Minnesota 
+North Stars that will bring the NHL club to Reunion Arena next season.
+  Defenseman Mark Tinordi, captain of the North Stars, will be sidelined 
+the rest of the season, including any postseason games the North Stars 
+might play, because of a broken collarbone.
+  Acquired defenseman Mark Osiecki from Winnipeg for ninth- and 10th-round 
+draft picks in 1993.
+  Added defenseman Travis Richards from the University of Minnesota.
+  A former employee filed a sexual harassment suit against Minnesota North 
+Star owner Norman Green. Karen (Kari) Dziedzic, Green's former executive 
+assistant, claims Green often instructed her to wear cosmetics, described 
+her outfits as "very hot" and "very sexy," once slapped her hand as she 
+was about to eat and humiliated her by grabbing her hand and rubbing it 
+through a client's hair.
+  The Minnesota North Stars, who will move to Dallas after this season, 
+announced that nearly 11,000 season ticket reservations have been made for 
+their new home at Reunion Arena, which has a capacity of 16,800.
+  The Met Center commission has told the Minnesota North Stars that it 
+wants the club out - with its keys returned - at midnight after the last 
+home game.  The club is moving to Dallas for next season.  The club must 
+pay unpaid interest of $4,492.80 on the team's late rent payment for 1992, 
+which was made earlier this month, and has been instructed not to take 
+property such as the scoreboard and Zamboni ice-surfacing machine.
+**
+  Derian Hatcher's game-misconduct penalty was rescinded by the NHL, 
+allowing the Minnesota defenseman to play in the North Stars' last two 
+regular-season games.  Hatcher was given the penalty during a fight at the 
+end of a loss at St. Louis on Sunday, April 11.  But the league didn't 
+rescind the game-misconduct penalty Shane Churla received.  The Stars 
+recalled center Cal McGowan from their top minor league club in Kalamazoo, 
+Mich., to replace Churla.
+
+ Montreal Canadiens
+  Acquired defenseman Rob Ramage from Tampa Bay for minor league 
+defensemen Eric Charron and Alain Cote and future considerations.
+
+ New Jersey Devils
+**
+  Bernie Nicholls publicly apologized for his criticism of referee Denis 
+Morel after the Devils' 5-2 loss to the Buffalo Sabres.  Nicholls was 
+ejected by Morel for being the third man in on a fight late in the second 
+period of that game and afterward Nicholls called Morel "a homer" and "an 
+embarrassment to the referee's association."
+
+ New York Islanders
+  Traded right wing Daniel Marois to Boston for a conditional draft 
+choice.
+
+ New York Rangers
+  Obtained forward Esa Tikkanen from Edmonton for center Doug Weight.
+  Acquired left winger Mike Hartman from Tampa Bay 
+  Acquired center John McIntyre from Los Angeles for defenseman Mark Hardy 
+and Ottawa's fifth-round 1993 draft pick.
+  Defenseman Brian Leetch will undergo additional surgery on the right 
+ankle he broke in a non-skating fall and is not expected to play again 
+this season. Leetch suffered the broken ankle March 19 following a victory 
+over San Jose. The team said he slipped on an icy patch of pavement as he 
+was getting out of a taxi cab in front of his apartment.
+**
+  Announced that defenseman James Patrick will require surgery on a 
+herniated disc in his back and will not play again this season.
+**
+  Returned goaltender Corey Hirsch to Binghamton of the American Hockey 
+League.
+
+ Ottawa Senators
+        The Ottawa Senators received the go-ahead to build the 18,500-seat 
+Palladium on the proposed location in nearby Kanata, Ont.  The projected 
+cost is C$150 million. Construction will be postponed until the 1995-96 
+season, one year behind schedule.
+  The Ottawa Senators lost their 37th consecutive NHL road game to tie the 
+1974-75 Washington Capitals for most road losses in a row.
+**
+  Assigned left wing Martin St. Amour to New Haven of the American Hockey 
+League.
+
+ Philadelphia Flyers
+  The opening date of Spectrum II has been pushed back to fall 1995. 
+Formal groundbreaking has been postponed indefinitely.
+  Traded veteran right wing Greg Paslawski to the Calgary Flames for 
+future considerations.
+
+ Pittsburgh Penguins
+  Traded left winger Bob Errey to Buffalo for defenseman Mike Ramsey.
+  Reacquired defenseman Peter Taglianetti from Tampa Bay Lightning for a 
+third-round 1993 draft choice.
+**
+  Revolutionary Comics of San Diego agreed to destroy all available copies 
+of a Mario Lemieux comic book in a settlement with the Pittsburgh Penguins 
+over a trademark infringement lawsuit.  The Penguins sued in February 
+charging that the "Sport Stars Mario Lemieux" comic infringed on the 
+team's logo and uniform, which are registered trademarks.
+
+ Quebec Nordiques
+1-800-463-3333
+
+ St. Louis Blues
+  St. Louis Blues center Ron Sutter will miss the rest of the season as a 
+result of separating his right shoulder.
+
+ San Jose Sharks
+  The San Jose Sharks announced that ticket prices will increase by about 
+30% for the 1993-94 season when they move from the Cow Palace into a new 
+$155-million arena in San Jose.
+**
+  Recalled defenseman Tom Pederson from Kansas City of the International 
+Hockey League.
+**
+  Reached agreement in principle with left wing Alexander Cherbayev.
+
+ Tampa Bay Lightning
+1-800-881-2639
+        At least two investor groups are poised to build a sports arena in 
+downtown Tampa if the delay-plagued company that holds a lease from the 
+Tampa Bay Lightning bows out. Tampa Coliseum Inc. has a lease with the 
+National Hockey League team to develop an entertainment and sports arena 
+next to Tampa Stadium, but has been unable to raise enough money for the 
+project.
+  Sent left winger Mike Hartman to the New York Rangers for center Randy 
+Gilhen.
+  Sent defenseman Peter Taglianetti to Pittsburgh for a third-round 1993 
+draft choice.
+  Sent defenseman Rob Ramage to the Montreal Canadiens for minor league 
+defensemen Eric Charron and Alain Cote and future considerations.
+**
+  Manon Rheaume's first starting appearance in goal for the Atlanta 
+Knights was impressive enough for her coach to say she has a chance to be 
+a backup goalie for another minor league team next season. Rheaume, the 
+first female to play professional hockey, stopped 25 shots and gave up six 
+goals against the Cincinnati Cyclones on Saturday night, April 10. After 
+the game, her coach, Gene Ubriaco, said Rheaume performed well enough to 
+compete for the No. 2 goalie spot with the Louisville IceHawks of the East 
+Coast Hockey League next season. The Knights and the IceHawks are minor 
+league clubs of the Tampa Bay Lightning.
+**
+  As their first season comes to a close, there are rumors swirling that 
+the Tampa Bay Lightning just might become the Atlanta Lightning.  Or the 
+Minnesota Lightning.  But they are just rumors, according to Lightning 
+general manager Phil Esposito.  ESPN reported on Sunday, April 11, that 
+the Lightning, who have been playing in 10,400-seat Expo Hall, are 
+exploring opportunities to move to either Atlanta or Minneapolis.  But 
+Esposito said there was no truth to the report.  "We were disappointed 
+with ESPN's irresponsible comment," Esposito said.  "There is just no 
+substance to the rumor." Rumors have been swirling for the past two years 
+regarding a move by Tampa Bay, which is presently discussing plans to 
+build a new arena.
+
+ Toronto Maple Leafs
+**
+  Defenseman Matt Martin, who helped Maine win the 1993 NCAA hockey 
+championship, gave up his final year of eligibility and signed a contract 
+with the Toronto Maple Leafs.
+
+ Vancouver Canucks
+       The Vancouver Canucks have cleared the last hurdle in their effort 
+to build a new stadium. Vancouver council has given the green light for 
+the 100 million dollar complex. It will seat 20 thousand people and will 
+have an adjoining office tower. It will be built between the viaducts near 
+B.C. Place in Vancouver. Site preparation will begin this summer, with a 
+completion date of Fall 1995.
+  Traded left winger Robert Kron and a third-round draft pick to Hartford 
+for left winger Murray Craven and a fifth-round draft pick.
+  Obtained defenseman Dan Ratushny from Winnipeg for a ninth-round draft 
+pick.
+**
+  Signed right wing Brian Loney to a multi-year contract and assigned him 
+to Hamilton of American Hockey League (AHL).
+
+ Washington Capitals
+(301) 808-CAPS
+  Traded goaltender Jim Hrivnak and future considerations to Winnipeg for 
+goaltender Rick Tabaracci.
+
+ Winnipeg Jets
+        Winnipeg Jets have been allowed economic assistance in order to 
+keep them in the Smythe division as a result of expansion.
+  Sent defenseman Mark Osiecki to Minnesota for ninth- and 10th-round 
+draft picks in 1993.
+  Sent goaltender Rick Tabaracci to Washington for Jim Hrivnak and future 
+considerations.
+  Sent defenseman Dan Ratushny to Vancouver for a ninth-round draft pick.
+  Winnipeg's Teemu Selanne broke the NHL's rookie points record. The Jets 
+rookie tied the record of 109 points, set by Peter Stastny with Quebec 
+(1980-81), with a goal, his 66th of the season, and moved ahead on an 
+assist in a 5-4 loss to Toronto.
+**
+  The Fort Wayne Komets said they have been told by Winnipeg that the Jets 
+will keep a minor league affiliation with Moncton of the American Hockey 
+League. There have been reports the Jets would move players from Moncton 
+to Fort Wayne next season.
+
+-----
+
+- Expansion news:
+
+  The National Hockey League announced that the expansion Anaheim and 
+South Florida franchises will join the league for the 1993- 1994 season.
+
+        Disney and National Hockey League officials announced Monday, 
+March 1, that the Mighty Ducks of Anaheim, Disney's expansion team, will 
+take to the ice next fall. Michael Eisner, chairman and chief executive 
+officer of the Walt Disney Co., said the Mighty Ducks will play at the 
+Pond, the new Anaheim sports arena, near Disney's flagship theme park. The 
+arena is under construction and will be completed in June. The Pond seats 
+17,350. The team still must meet the league's requirement that it sell at 
+least 10,000 season tickets for the final grant of NHL membership.
+
+        Anaheim named Jack Ferreira general manager and Pierre Gauthier 
+assistant general manager.
+**
+  Veteran NHL scout Al Godfrey has been hired as the Midwest regional 
+scout for the Anaheim Mighty Ducks.
+
+        Philadelphia Flyers' senior vice president Bobby Clarke was named 
+Monday, March 1, to the post of general manager for Miami's NHL expansion 
+team. Franchise owner H. Wayne Huizenga made the announcement at the Miami 
+Arena, three months after being awarded a franchise. Huizenga said he 
+plans to have a team on the ice in time for the beginning of the NHL 
+season in October.
+
+-----
+
+- Realignment:
+
+Eastern Conference
+
+Atlantic Division
+
+Washington Capitals, New Jersey Devils, New York Islanders, New York 
+Rangers, Philadelphia Flyers, South Florida, Tampa Bay Lightning
+
+Northeast Division
+
+Boston Bruins, Buffalo Sabres, Hartford Whalers, Montreal Canadiens, 
+Ottawa Senators, Pittsburgh Penguins, Quebec Nordiques
+
+Western Conference
+
+Central Division
+
+Chicago Blackhawks, Dallas Stars, Detroit Red Wings, St. Louis Blues, 
+Toronto Maple Leafs, Winnipeg Jets
+
+Pacific Division
+
+Anaheim Mighty Ducks, Calgary Flames, Edmonton Oilers, Los Angeles Kings, 
+San Jose Sharks, Vancouver Canucks
+
+  Schedule: Eastern Conference teams will play five games against each of 
+six divisional opponents (30); four games against each of the seven teams 
+in the conference's other division (28) and two games against each of the 
+12 Western Conference members (24).
+
+Western Conference teams will play six games against each of five 
+divisional opponents (30); four games against each of the six teams in the 
+conference's other division (24) and two games against each of the 14 
+Eastern Conference clubs (28).
+
+  Playoffs: The system will be conference-based, with the No. 1 team 
+meeting the No. 8 team in the first round, No. 2 vs. No. 7, No. 3 vs. No. 
+6 and No. 4 vs. No. 5. Matchups will be based on overall points with the 
+four division champions being placed in the first- or second-place seeds 
+in each conference and being assured of home-ice in the first two playoff 
+rounds. All series will be best of seven (2-2-1-1-1 rotation) except 
+matchups between Central and Pacific teams.  Those series will rotate 2-3-
+2 to reduce travel.  In those cases, the team with the most regular-season 
+points will choose whether to start the series at home or away.
+
+-----
+
+- Draft news:
+
+        Under terms of the new expansion draft, which will be held in 
+June, each of the 24 existing clubs will be allowed to protect one 
+goaltender, five defensemen and nine forwards. The most recent expansion 
+drafts allowed teams to protect two goalies and did not make a distinction 
+between forwards and defensemen.
+        First-year pros only will be exempt from the draft, which is down 
+from the two-year exemption teams had last season. San Jose, Tampa Bay and 
+Ottawa still will be allowed to exempt second-year pros.
+        Each of the 24 teams will lose two players, with a maximum loss of 
+one goaltender and a maximum loss of one defenseman. The one exception is 
+that a team which loses a goaltender can then no longer lose a defenseman.
+        At the end of the first phase of the draft, the two new franchises 
+will have three goaltenders, eight defensemen and 13 forwards for a total 
+of 24 players. A second phase then will be conducted where San Jose, Tampa 
+Bay and Ottawa will select two players each from the rosters of the two 
+new teams.
+        Ottawa, Tampa Bay and San Jose will be guaranteed priority 
+drafting selection in the 1993 draft as long as they have the three worst 
+records. Anaheim and Miami will choose no lower than fourth and fifth. The 
+expansion franchises will move up in the draft should either San Jose, 
+Tampa Bay or Ottawa not finish in the bottom three positions.
+        The two new teams will pick first and second in the 1994 Entry 
+Draft, regardless of their finish in 1993-94. Should either of the two new 
+teams not play next season they would have priority drafting position in 
+1994.
+
+        The owners announced the 1994 draft will be in Hartford and the 
+1995 draft in Winnipeg. The 1994 draft was scheduled for Boston, but a 
+delay in the construction of a new arena required the draft be moved.
+
+-----
+ 
+- League news:
+
+Disputes:
+
+  The NHL owners and players have resolved differences over salary 
+arbitration procedures, clearing the way for about 40 hearings.  NHLPA 
+executive director Bob Goodenow didn't disclose how the issues were 
+resolved, but the prior sticking point had been the manner in which 
+statistics were used in arbitration hearings.
+
+Olympics:
+
+  The NHL announced February 26, 1993, it will not make professional 
+players available to compete in the 1994 Winter Olympics.
+
+League Leadership:
+
+        Los Angeles Kings owner Bruce McNall succeeded Blackhawks owner 
+Bill Wirtz as chairman of the NHL's powerful Board of Governors. Appointed 
+to join McNall on the Executive Committee were Ron Corey of the Montreal 
+Canadiens, Mike Ilitch of the Detroit Red Wings, Peter Pocklington of the 
+Edmonton Oilers and Ed Snider of the Philadelphia Flyers.
+
+        Gary Bettman, vice president and general counsel of the National 
+Basketball Association, was named commissioner of the National Hockey 
+League, Friday, December 11, 1992.
+
+Miscellaneous:
+
+       

@@ -1,0 +1,199 @@
+From: bgrubb@dante.nmsu.edu (GRUBB)
+Subject: Mac & IBM Info-Version 1.7.7
+Organization: New Mexico State University, Las Cruces, NM
+Lines: 753
+Distribution: world
+NNTP-Posting-Host: dante.nmsu.edu
+
+{Send follow ups to comp.sys.mac.advocacy. Sorry about the header but the 
+Pnews here does not let one easily change the headers and I gave up after a 
+year of trying. This sheet is also available by FTP on sumex-aim.stanford.edu 
+(36.44.0.6) in the info-mac/report as mac-ibm-compare177.txt.}
+Mac & IBM Info-Version 1.7.7
+
+The reason for this general data sheet is to consolidate and condense the 
+information out there, so that people in both camps can be clear and accurate 
+about what they are saying about their machines.  Since computer technology 
+is always changing there are always going to be points in which the sheet will 
+be lacking or incorrect on information.  So, please just don't say the sheet 
+is incomplete or incorrect but also give me clear and concise information to 
+make the needed corrections.  All prices are in US dollars.
+To keep this data sheet organized please provide, if possible, article 
+citations for the information provided or corrected and keep the opinions to 
+a minimum.  As this is a general data sheet, keep the info provided simple so 
+I can understand what is being talked about and can explain it to others. 
+Finally, keep the information relevant to the section corrected {For example, 
+OS code in ROM is software contained in hardware, so no more of the 'but it 
+is supported in OS disk software' data for the hardware section, please}. 
+Thank you.
+Note:  for proper reading off line this document should be in 9 point Monaco.
+
+Special thanks to ANDREW@aardvark.ucs.uoknor.edu (Chihuahua Charlie), 
+andrew@frip.wv.tek.com (Andrew Klossner), bell-peter@YALE.EDU (Peter Bell), 
+bcoleman@hayes.com (Bill Coleman), cj00+@andrew.cmu.edu (Carl B Jabido), d88-
+jwa@nada.kth.se (Jon Wtte) ephraim@Think.COM (Ephraim Vishniac), 
+fj05+@andrew.cmu.edu (Faisal Nameer Jawdat), gsidler@cafe.eecs.nwu.edu 
+(Gabriel Sidler), julian@deepthnk.kiwi.gen.nz (Julian Harris), 
+Erick.Krueger@um.cc.umich.edu, krueger@engin.umich.edu, 
+matt@wardsgi.med.yale.edu (Matt Healy), mark@bilpin.co.uk (Mark Allerton), 
+jokim@jarthur.claremont.edu (John H. Kim), mem@jhufos.pha.jhu.edu (Mel 
+Martinez), nan@matt.ksu.ksu.edu (Nan Zou), pwagner%us.oracle.com, 
+s_fuller@iastate.edu, strobl@gmd.de (Wolfgang Strobl), 
+jkirvin@pafosu1.hq.af.mil, phill@ichips.intel.com, 
+shaikha@duvm.ocs.drexel.edu, sxjcb@orca.alaska.edu (Jay C. Beavers), Lewis 
+Kawecki@novell.com, lamont@catfish16.rtsg.mot.com (Bradley Lamont), 
+cerro@mbcl.rutgers.edu ("Cerro, Joseph A"), mpark@utmem1.utmem.edu (Mel Park), 
+logullo@applelink.apple.com (Jeff Logullo), zrai02@hou.amoco.com (Robert 
+Irlbeck), and mikew@apple.com for providing some of the information that made 
+this list possible.
+ Contents
+CPUs
+Hardware
+ Monitor support
+ Expansion
+Operating system
+ OS Number Crunching
+Networking & Printing
+ that it will run Windows/DOS programs.  IBM OS section for details
+NeXTStep: possible port see IBM OS section for details.
+
+OS Number Crunching (Mel Park)
+Mac
+ Arithmetic is done in a consistent numerical environment {SANE or Standard 
+Apple Numerics Environment}. Floating point numbers are 96 bits long when an 
+FPU is present and 80 bits otherwise. Exceptions, such as dividing by zero or 
+taking the square root of a negative number, do not cause an abort but are 
+handled in a logically consistent manner. 1/0 produces the internal 
+representation for infinity (INF).  1/(1/0) produces zero. The above treatment 
+of 1/(1/0) occurs in an FPU-equipped machine even when SANE is bypassed and 
+the FPU programmed directly.
+
+IBM
+ Floating point numbers are 80-bits with a hardware FPU, 64-bits when 
+emulated.  The way they are handled is dependent on the coding of whatever 
+compiler or assembler was used for a program. On older DOS complilers 
+exceptions could cause program aborts; 1/0 and 1/(1/0) would abort to the DOS 
+prompt at the point where they occured.  Most present compilers handle this 
+better.  Result: there is little consistent handling of numbers between DOS, 
+Windows and OS/2 programs nor between programs for just one OS.
+
+Networking [Includes printing]
+WYSIWYG printing can be a problem with either Mac of IBM machines especially 
+if one sends TrueType fonts to a older style PostScript printer.
+Mac
+Hardware: Built-in LocalTalk network port and a built-in printer port.  
+LocalTalk has moderate speeds (230.4 Kb/s) requires special connectors for 
+each machine ($15 and up) and can be run off of either the printer port {to 
+include very old macs} or the network port {standard today}.  Built-in 
+Ethernet is becoming common but many older Macs require a PDS or Nubus card at 
+about $150-$300 for each machine.  These cards provide three connectors and 
+transceivers {thick, thin, and 10BaseT} for Ethernet.
+The Macintosh Quadra family and some Centris models includes Ethernet 
+interface on motherboard, with transceivers available. TokenRing has been a 
+network option since 1989.
+Software: AppleTalk {the suite of protocols} standard with Mac OS, which can 
+use variety of media types.  AppleShare client software included with the OS 
+as well and can connect to file servers such as Novell Netware, 3Com 3+Open, 
+Banyan Vines, DEC Pathworks, Apple's AppleShare servers, System 7 File Sharing 
+machines, and AFP servers running on variety of UNIX hosts.  MacTCP allows 
+typical TCP/IP communications (telnet, ftp, NFS, rlogin).  A later version 
+will have Unix X/Open Transport Interface (XTI) built-in by the end of 1993 
+(MacWeek 04/12/93).  Third-party software to connect to NFS servers.  DEC 
+Pathworks provides DECnet support.  Peer-to-peer file sharing software 
+built-in to System 7.1 (See OS section).  Full server software is extra. 
+Printing requires connection of the printer and the printer being selected in 
+the chooser.  Changing printers is by selecting a different name in the 
+chooser.  The same is true of connecting to servers.
+Printing bugs:  Monaco TrueType font is different then the screen bitmap font.
+ {QuickDraw QX is suppossed to fix this and similar problems.}
+
+IBM  
+Hardware: LocalTalk [not widely used], Ethernet,  and TokenRing.
+Software: Novell Netware, Banyan Vines, DECNet, Windows/Work Groups, AppleTalk 
+protocols, and AppleShare {subset of AppleTalk}.
+Each of the MS-DOS networking schemes are, in general, totally incompatible 
+with the others. Once you have chosen one, you are pretty much locked-in to 
+that product line from then on.  Windows/Work Groups is a little more 
+forgiving and removes some of this problem.  Novell Netware is the biggest, 
+{80 percent of the corporate market.} and in general is more powerful and 
+offers better control/management/security than AppleShare, but it's also more 
+complex to set up and manage.  This will change due to the use of the Mac 
+finder and file management system by Novell. (PC Week 12/14/92 & 12/28/92;  
+InfoWorld Dec 14/92; MacWeek 3/22/93)
+Printing {Very OS dependent}
+DOS: If it's a single user, then you plug the printer into the parallel port, 
+ and don't worry about it {Tweeking may be needed with poorly written 
+ software}.  Network Printing is not controlled by the system, but is mostly 
+ implemented by the actual program, therefore performance varies from one 
+ software program to the next.
+Windows 3.x: supports standard drivers and can do a good job of showing "jobs" 
+ in the print queue, but it always lists printers as "active"... even if they 
+ are not.  This becomes a problem if there are several incompatible printers 
+ on the same net, because there's no way for software to reliably determine 
+ which printer is active right now.  Windows for Workgroups is more Mac-like 
+ and intelligent about this.
+OS/2: Mac-like; the os deals with printers, with apps making calls to the OS.
+Printing bugs: due to poor programing some programs for all the above OSes do 
+not have WYSIWYG printing.  This is the fault of the programs in question and 
+not that of the OS involved.
+
+Price issue: This is very dynamic with Mac providing more build-in features 
+than IBM and IBM being more 'get only what you need' then Mac and price wars 
+by both worlds.
+The IBM machines' modualar nature prevents any kind of true hardware 
+standarization, which in turn requires OSes and programs to be very complex to 
+handle ALL the variation in hardware.  When one adds all the standard Mac 
+hardware features to an IBM {built-in input/output sound support, SCSI, PDS,  
+built-in monitor support, built-in networking, standard mouse interface, and 
+NuBus 90 in higher machines} the Mac tends to be cheaper then an equivalent 
+equipted IBM machine {Especially since some IBM monitors can be used with Macs 
+which cuts some more of the Mac's cost (MacUser Aug 1992:158-176)}.
+ Some prices using some of the info in this sheet and MacUser April 1993.
+All Macs below come with a PDS slot, VRAM, and SCSI-1 built in.  Except where 
+noted, monitor is extra and a built-in monitor interface is provided {no card 
+needed except for 24-bit color display}.
+IBM planned a $1,200 386SLC/25MHz model with a 60MB hard drive and color VGA 
+monitor {VRAM} (MacWeek 8/17/92) {sounds like a Color Classic without SCSI-1, 
+sound support, built-in network support, FPU socket, built-in expansion to 
+16-bit color, etc}.
+Color Classic:  $1,389 - 030/16MHz with 16-bit data bus {386sx/20MHz 
+equivalent}, 4/80, FPU socket, and built-in monitor.
+LCIII: $1,499 - 030/25MHz {386dx/33MHz equivalent}, and 4/160.
+Centris 610: $2,899 - 68LC040/20MHz {Depending on the program 486sx/40 or 
+'486dx2sx'/20[40]MHz equivalent}, 8/230, built-in ethernet, 300i CD-ROM, a 
+PDS/NuBus 90 slot and VRAM for 16-bit color.
+Centris 650: 040/25MHz {Depending on the program 486dx/50 MHz or 486dx2/50 
+MHz equivalent} with a PDS and 3 NuBus 90 slots. $3,189 {ethernet, 8/80}; 
+$3,559 {ethernet, 8/230}; $3,999 {ethernet, 8/230, CD-ROM, VRAM for 16-bit 
+color}
+
+Bibliography notes
+'Vaporware' is available in the digest/vapor directory by FTP on sumex-
+aim.stanford.edu [36.44.0.6] and was by Murphy Sewall {last issue: April 93.}
+'Info-IBMPC Digest' back issues are available from wsmr-simtel20.army.mil in 
+directory PD2:<ARCHIVES.IBMPC>
+'Dictionary of Computer Terms 3rd ed.' (ISBM 0-8120-4824-5)
+
+These are the facts as they were known to me on 4/15/93 and may be changed by 
+new developments, announcements, or corrections.  Corrections to the 
+information are welcome.
+Please email corrections to 
+CompuServe ID: 72130,3557
+AOL: BruceG6069
+Internet:  bgrubb@dante.nmsu.edu
+
+Final note: Since there is NO comp.sys.ibm.pc.advocacy group this has been 
+posted to the closest relevent groups {comp.os.ms-windows.advocacy, 
+comp.os.os2.advocacy, and comp.sys.ibm.pc.misc}.  Also since some Mac vs IBM 
+articles have been showing up in comp.sys.mac.hardware I have included that 
+newsgroup in the posting. {Don't site the comp.sys.mac.* FAQ as a reason not 
+to post to comp.sys.mac.hardware, since the FAQ itself does not follow 
+internet guidelines, especially the de-facto "[all] the FAQs for a newgroup 
+hierarchy should be posted to ALL newsgroups in the hierarchy" standard.}
+
+"Eliminate the impossible and what ever remains, no matter how improbable,
+is the truth" -- Sir Arthur Conan Doyle through Sherlock Holmes in The 
+Adventure of the Beryl Coronet, The Adventure of the Blanched Soldier, Sign of 
+Four and The Adventure of the Bruce-Partington Plans.
+
+"The Computer is your friend"--Parinoia RPG

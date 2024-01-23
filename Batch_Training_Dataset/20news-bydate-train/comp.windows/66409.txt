@@ -1,0 +1,198 @@
+From: chongo@toad.com Landon C. Noll
+Subject: Reposting: 10th International Obfuscated C Code Contest rules 2 of 2
+Epires: 8 May 93 00:00:00 GMT
+ReplyTo: chongo@toad.com Landon C. Noll
+Distribution: world
+Organization: Nebula Consultants in San Francisco
+Lines: 1409
+Keywords: ioccc
+
+We have received a number of requests for a reposting of the
+International Obfuscated C Code Contest rules and guidelines.  Also
+some people requested that these rules be posted to a wider set of
+groups.  Sorry for the cross posting.
+
+Some technical clarifications were made to the rules and guidelines.
+See the diff marks at the right hand edge  The rules and guidelines
+for this year remain the same, so people who have already or are
+in the process of submitting entries for the 1993 IOCCC need not worry 
+about these changes.
+
+chongo Landon Curt Noll cc        chongo@toad.com
+Larry Bassel                            lab@sun.com
+
+
+
+!binsh
+ This is part 02 of a multipart archive
+  mkentry.c 
+echo   etracting mkentry.c Tet
+sed s  SHAR_EOF  mkentry.c 
+ @mkentry.c	1.25 4593 15:58:08 
+
+  Copyright c Landon Curt Noll  Larry Bassel, 1993.
+  All Rights Reserved.  Permission for personal, education or nonprofit use
+  is granted provided this this copyright and notice are included in its
+  entirety and remains unaltered.  All other uses must receive prior
+  permission in writing from both Landon Curt Noll and Larry Bassel.
+ 
+
+  mkentry  make an International Obfuscated C Code Contest entry
+ 
+  usage:
+ 	mkentry r remarks b build p prog.c o ioccc.entry
+ 
+ 	r remarks		file with remarks about the entry
+ 	b build		file containing how prog.c should be built
+ 	p prog.c		the obfuscated program source file
+ 	o ioccc.entry		ioccc entry output file
+ 
+  compile by:
+ 	cc mkentry.c o mkentry
+ 
+
+  Placed in the public domain by Landon Curt Noll, 1992.
+ 
+  THIS SOFTWARE IS PROVIDED ``AS IS AND WITHOUT ANY EPRESS OR IMPLIED
+  WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
+  MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+ 
+
+  WARNING:
+ 
+  This program attempts to implement the IOCCC rules.  Every attempt
+  has been made to make sure that this program produces an entry that
+  conforms to the contest rules.  In all cases, where this program
+  differs from the contest rules, the contest rules will be used.  Be
+  sure to check with the contest rules before submitting an entry.
+ 
+  FOR MORE INFORMATION:
+ 
+    You may contact the judges by sending Email to the following address:
+ 
+ 	...!{apple,pyramid,sun,uunet}!hoptoad!judges	not the address for
+ 	judges@toad.com					 submitting entries
+ 
+    Questions and comments about the contest are welcome.
+ 
+   The rules and the guidelines may and often do change from year to
+   year.  You should be sure you have the current rules and guidelines
+   prior to submitting entries.  To obtain them, send Email to the address
+   above and use the subject send rules.
+ 
+   One may obtain winners of previous contests 1984 to date, via ftp from:
+ 
+ 	host: ftp.uu.net	192.48.96.9
+ 	user: anonymous
+ 	pass: yourname@yourhost
+ 	dir:  ~pubioccc
+ 
+   As a last resort, previous winners may be obtained by sending Email
+   to the above address.  Please use the subject send YEAR winners,
+   where YEAR is a single 4 digit year, a year range, or all.
+ 
+  Because contest rules change from year to year, one should only use this
+  program for the year that it was intended.  Be sure that the RULE_YEAR
+  define below matches this current year.
+ 
+
+    GOALS OF THE CONTEST:
+
+         To write the most ObscureObfuscated C program under the rules below.
+         To show the importance of programming style, in an ironic way.
+         To stress C compilers with unusual code.
+         To illustrate some of the subtleties of the C language.
+         To provide a safe forum for poor C code.  :
+
+    The IOCCC is the grandfather of USENET programming contests.  Since
+    1984, this contest demonstrated that a program that simply works
+    correctly is not sufficient.  The IOCCC has also done much to add
+    the arcane word obfuscated back into the English language.
+    see The New Hackers Dictionary by Eric Raymond
+
+    You are strongly encouraged to read the new contest rules before
+    sending any entries.  The rules, and sometimes the contest Email
+    address itself, change over time.  A valid entry one year may
+    be rejected in a later year due to changes in the rules.  The typical
+    start date for contests is in early March.  Contest rules are normally not
+    finalized and posted until the beginning of the contest.  The typical
+    closing date for contests are in early May.
+
+    The rules and the guidelines may and often do change from year to
+    year.  You should be sure you have the current rules and guidelines
+    prior to submitting entries.  To obtain them, send Email to the address
+    above and use the subject send rules.
+
+    One may obtain winners of previous contests 1984 to date, via ftp from:
+
+	host: ftp.uu.net	192.48.96.9
+	user: anonymous
+	pass: yourname@yourhost
+	dir:  ~pubioccc
+
+    As a last resort, previous winners may be obtained by sending Email
+    to the above address.  Please use the subject send YEAR winners,
+    where YEAR is a single 4 digit year, a year range, or all.
+
+
+
+    0th International Obfuscated Perl Contest
+	By: Landon Noll  Larry Wall
+
+    This content is being planned.  Someday when Landon  Larry are not too
+    busy, they will actually get around to posting the first set of rules!
+
+    Landon says: Yes, I know that I said we would have a contest in 1993,
+		  but other eisting projects got in the way.  Hopefully
+		  something will be developed after Nov 1993.
+
+
+
+                2nd International obFUsCaTeD POsTsCripT Contest
+                     Jonathan Monsarrat jgm@cs.brown.edu
+                         Alena Lacova alena@nikhef.nl
+
+    A  contest of  programming skills  and  knowledge, eclusively  for the
+    PostScript programming language. Its purpose:
+
+     To spread knowledge of PostScript and its details.
+     To applaud those with the best tricks.
+     To prove  that humans can  beat those damnable  machine generators at
+      their own game by writing  the most obscure and mysterious PostScript
+      programs ever.
+
+    Winners will receive the fame and attention that goes with having their
+    program entry posted as a winner to programmers worldwide.
+
+    The 1993 contest rules and results are available by ftp as
+    ``wilma.cs.brown.edu:pubpostscriptobfuscated.shar, or individually
+    in the obfuscated directory. The judges will post the 1994 rules
+    in November to comp.lang.postscript on Usenet, and other places.
+    Send questions to jgm@cs.brown.edu.
+
+    Categories include: Best Obfuscated PostScript, Best Artwork,
+    Most Compact, Best Interactive Program, Most Useful, and
+    anything so unusual and creative that it deserves an award.
+
+    The judges will choose the winners of each category.
+
+    Alena Lacova  is a system  administrator at NIKHEF  Institute for High
+    Energy and Nuclear  Physics in the  Netherlands. She is  the author of
+    The PostScript Chaos  Programs, which draw  Julia sets, Mandelbrot sets
+    and other kinds of fractal functions.
+
+    Jonathan Monsarrat is a graduate  student from MIT and Brown University
+    in  the  U.S.A. He  is  the  FAQ maintainer  for  the  Usenet newsgroup
+    comp.lang.postscript and the author of The PostScript Zone and LameTe.
+ .
+
+SHAR_EOF
+chmod 0444 obfuscate.info ||
+echo restore of obfuscate.info failed
+set `wc c obfuscate.info`;Wc_c$1
+if test $Wc_c ! 6418; then
+	echo original size 6418, current size $Wc_c
+fi
+eit 0
+ 
+Sunnyvale residents: Vote Landon Noll for Sunnyvale City Council seat 1.

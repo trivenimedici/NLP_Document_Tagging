@@ -1,0 +1,544 @@
+From: ld231782@longs.lance.colostate.edu (L. Detweiler)
+Subject: Privacy & Anonymity on the Internet FAQ (2 of 3)
+Supersedes: <net-privacy/part2_733153240@GZA.COM>
+Organization: TMP Enterprises
+Lines: 1543
+Expires: 21 May 1993 04:00:06 GMT
+Reply-To: ld231782@longs.lance.colostate.edu
+NNTP-Posting-Host: pad-thai.aktis.com
+Summary: Email and account privacy, anonymity, file encryption, 
+ academic computer policies, relevant legislation and references, 
+ EFF, and other privacy and rights issues associated with use of the
+ Internet and global networks in general.
+X-Last-Updated: 1993/03/04
+
+Archive-name: net-privacy/part2
+Last-modified: 1993/3/3
+Version: 2.1
+
+
+IDENTITY, PRIVACY, and ANONYMITY on the INTERNET
+================================================
+
+(c) 1993 L. Detweiler.  Not for commercial use except by permission
+from author, otherwise may be freely copied.  Not to be altered. 
+Please credit if quoted.
+
+SUMMARY
+=======
+
+Email and account privacy, anonymity, file encryption,  academic 
+computer policies, relevant legislation and references, EFF, and 
+other privacy and rights issues associated with use of the Internet
+and global networks in general.
+
+(Search for <#.#> for exact section. Search for '_' (underline) for
+next section.)
+
+  U.S. SAID TO PLAY FAVORITES IN PROMOTING NATIONWIDE COMPUTER NETWORK
+  By John Markoff, N.Y. Times (~18 Dec 91).
+  ---
+    President Bush's legislation for natiowide computer data
+    `superhighway.'  IBM-MCI venture as monopoly destructive to fair
+    competition and  innovation?  National Science Foundation NSFnet.
+    complete text in  /pub/pub-infra/1991-12.
+
+  Commentary
+  ==========
+
+  /pub/academic/statements/nren.privacy.cpsr
+  ---
+    ``Proposed Privacy Guidelines for the NREN'' -- Statement of Marc
+    Rotenberg, Washington Director Computer Professionals for Social
+    Responsibility (CPSR).
+
+  /pub/internet-info/cisler.nren
+  ---
+    The National Research and Education Network: Two meetings Steve
+    Cisler, Senior Scientist Apple Computer Library December 17, 1990
+    Summary of meetings exploring educational issues of NREN by
+    diverse members of academia and industry.
+
+  /pub/internet-info/privatized.nren
+  ---
+    Feb. 14 1991 essay by M. Kapor advocating advantages of a private
+    National Public  Network, and specific recommendations for open
+    NREN policies encouraging  competition.
+
+
+  /pub/eff/papers/netproposition
+  ---
+    An FYI about the proposed NREN setup.
+
+_____
+<6.6> What is the FBI's proposed Digital Telephony Act?
+
+  ``Providers of electronic communication services and private branch
+  exchange operators shall provide within the United States
+  capability and capacity for the government to intercept wire and
+  electronic communications when authorized by law...''
+  
+  From `BBS Legislative Watch: FBIs Wiretapping Proposal Thwarted' by
+  S. Steele in Boardwatch Magazine, Feb. 1993, p. 19-22:
+ 
+  > In a move that worried privacy experts, software manufacturers and
+  > telephone companies, the FBI proposed legislation to amend the
+  > Communications Act of 1934 to make it easier for the Bureau to
+  > perform electronic wiretapping. The proposed legislation,
+  > entitled 'Digital Telephony,' would have required communications
+  > service providers and hardware manufacturers to make their
+  > systems 'tappable' by providing 'back doors' through which law
+  > enforcement officers could intercept communications. Furthermore,
+  > this capability would have been provided undetectably, while the
+  > communications was in progress, exclusive of any communications
+  > between other parties, regardless of the mobility of the target
+  > of the FBI's investigation, and without degradation of service.
+  >  
+  > ...under the proposal, the Department of Justice (DOJ) can keep
+  > communications products off the market if it determines that
+  > these products do not meet the DOJ's own ... guidelines. This
+  > [could] result in increased costs and reduced competitiveness for
+  > service providers and equipment manufacturers, since they will be
+  > unlikely to add any features that may result in a DOJ rejection
+  > of their entire product. ...the FBI proposal suggests that the
+  > cost of this wiretapping 'service' to the Bureau would have to be
+  > borne by the service provider itself...
+  > 
+  > The Electronic Frontier Foundation organized a broad coalition of
+  > public interest and industry groups, from Computer Professionals
+  > for Social Responsibilty (CPSR) and the ACLU to AT&T and Sun
+  > Microsystems, to oppose the legislation. A white paper produced
+  > by the EFF and ratified by the coalition, entitled, `An Analysis
+  > of the FBI Digital Telephony Proposal,' was widely distributed
+  > throughout the Congress.  ... The Justice Department lobbied hard
+  > in the final days to get Congress to take up the bill before
+  > Congress adjourned, but the bill never ... found a Congressional
+  > sponsor (and was therefore never officially introduced). The FBI
+  > [may] reintroduce "Digital Telephony" when the 103rd Congress
+  > convenes in January.
+
+  ftp.eff.org
+  ===========
+  
+  /pub/eff/legislation/fbi-wiretap-bill
+  /pub/EFF/legislation/new-fbi-wiretap-bill
+  ---
+    A bill to ensure the continuing access of law enforcement to the
+    content of wire and electronic communications when authorized by
+    law and for other purposes. Version 2 of the bill after FBI
+    changes in response to public response.
+
+  /pub/cud/law/hr3515
+  ---
+    House of Rep bill 3515, Telecommunications Law.
+
+  Commentary
+  ==========
+  
+  /pub/eff/papers/eff-fbi-analysis
+  ---
+    The EFF-sponsored analysis of the FBI's Digital Telephony proposal.
+
+  /pub/eff/papers/ecpa.layman
+  ---
+    The Electronic Communications Privacy Act of 1986: A Layman's View.
+
+  /pub/eff/papers/nightline-wire
+  ---
+    Transcript of ABC's Nightline of May 22, 1992, on the FBI,
+    Privacy, and Proposed Wire-Tapping Legislation. Featured are Marc
+    Rotenberg of the CPSR and William Sessions, Director of the FBI.
+
+  /pub/eff/papers/edwards_letter
+  ---
+    A letter from the Director of the Secret Service to US Rep. Don
+    Edwards, D-California, in response to questions raised by
+    Edwards' Subcommittee. This copy came from Computer Professionals
+    for Social Responsibility in Washington, D.C.
+
+  /pub/eff/papers/fbi.systems
+  ---
+    A description of how information is stored on the FBI's computer
+    systems.
+
+
+_____
+<6.7> What other U.S. legislation is related to privacy?
+
+  ftp.eff.org
+  ===========
+  
+  /pub/cud/law/<state>  
+  ---
+    State computer crime laws:
+                                  AL, AK, AZ, CA, CO, CT, DE, FL, GA,
+                                  HI, IA, ID, IL, IN, MD, MN, NC, NJ,
+                                  NM, NY, OR, TX, VT, VA, WA, WI, WV.
+
+  /pub/cud/law/<country>
+  ---
+    Current computer crime laws for: The United States (federal
+    code), Canada, Ghana, and Great Britain.
+
+  /pub/cud/law/bill.s.618
+  ---
+    Senate bill 618, addressing registration of encryption keys with
+    the government.
+
+  /pub/cud/law/improve
+  ---
+    Improvement of Information Access bill.
+
+  /pub/cud/law/monitoring
+  ---
+    Senate bill 516; concerning abuses of electronic monitoring in the
+    workplace.
+
+  /pub/cud/law/us.e-privacy
+  ---
+    Title 18, relating to computer crime & email privacy.
+
+  /pub/academic/law/privacy.electronic.bill
+  ---
+    The text of Simon's electronic privacy bill, S. 516. ``To prevent
+    potential abuses of electronic monitoring in the workplace.''
+
+_____
+<6.8> What are references on rights in cyberspace?
+
+  ftp.eff.org
+  ===========
+
+  /pub/cud/papers/const.in.cyberspace
+  ---
+    Laurence Tribe's keynote address at the first Conference on
+    Computers, Freedom, & Privacy. `The Constitution in Cyberspace'
+
+  /pub/cud/papers/denning
+  ---
+    Paper presented to 13th Nat'l Comp Security Conf ``Concerning
+    Hackers Who Break into Computer Systems'' by Dorothy E Denning.
+
+  /pub/cud/papers/privacy
+  ---
+    ``Computer Privacy vs First and Fourth Amendment Rights'' by
+    Michael S. Borella
+
+  /pub/cud/papers/rights-of-expr
+  ---
+    Rights of Expression in Cyberspace by R. E. Baird
+
+  /pub/academic/eff.rights
+  ---
+    Bill of Rights' meaning in the Electronic Frontier.
+
+_____
+<6.9> What is the Computers and Academic Freedom (CAF) archive?
+
+  The CAF Archive is an electronic library of information about
+  computers and academic freedom. run by the Computers and Academic
+  Freedom group on the Electronic Frontier Foundation FTP site.
+  
+  > If you have gopher, the archive is browsable with the command:
+  >   gopher -p academic gopher.eff.org
+  > 
+  > It is available via anonymous ftp to ftp.eff.org (192.88.144.4) in
+  > directory `pub/academic'. It is also available via email. For
+  > information on email access send email to archive-server@eff.org.
+  > In the body of your note include the lines `help' and `index'.
+  > 
+  > For more information, to make contributions, or to report typos
+  > contact J.S. Greenfield (greeny@eff.org).
+
+  ftp.eff.org
+  ===========
+  
+  /pub/academic/statements/caf-statement
+  ---
+    Codifies the application of academic freedom to academic
+    computers, reflecting seven months of on-line discussion about
+    computers and academic freedom.  Covers free expression, due
+    process, privacy, and user participation.
+
+  /pub/academic/books
+  ---
+    Directory of book references related to Computers and Academic
+    Freedom or mentioned in the CAF discussion. The file books/README
+    is a bibliography.
+
+  /pub/academic/faq/archive
+  ---
+    List of files available on the Computers and Academic Freedom
+    archive.
+
+  /pub/academic/news
+  ---
+    Directory of all issues of the Computers and Academic Freedom
+    News. A full list of abstracts is available in file `abstracts'.
+    The special best-of-the-month issues are named with their month,
+    for example, `June'.
+
+
+FOOTNOTES
+=========
+
+
+_____
+<7.1> What is the background behind the Internet?
+ 
+  The article ``Internet'' in Fantasy and Science Fiction by Bruce
+  Sterling <bruces@well.sf.ca.us> contains general and nontechnical
+  introductory notes on origins of the Internet, including the role
+  of the RAND corporation, the goal of network resilience in face of
+  nuclear attack, MIT, UCLA, ARPANET, TCP/IP, NSF, NREN, etc.:
+
+  > ARPANET itself formally expired in 1989, a happy victim of its 
+  > own overwhelming success.  Its users scarcely noticed, for
+  > ARPANET's  functions not only continued but steadily improved. 
+  > The use of  TCP/IP standards for computer networking is now
+  > global.  In 1971, a  mere twenty-one years ago, there were only
+  > four nodes in the  ARPANET  network.  Today there are tens of
+  > thousands of  nodes in  the Internet,  scattered over forty-two
+  > countries, with more coming  on-line every day.   Three million,
+  > possibly four million people use  this gigantic
+  > mother-of-all-computer-networks.   
+  > 
+  > The Internet is especially popular among scientists, and is 
+  > probably the most important scientific instrument of the late 
+  > twentieth century.   The  powerful, sophisticated access that it 
+  > provides to specialized data and personal communication  has sped
+  > up the pace of scientific research enormously.  
+  > 
+  > The Internet's pace of growth in the early 1990s is  spectacular, 
+  > almost ferocious.  It is spreading faster than cellular phones,
+  > faster  than fax machines.  Last year the Internet was growing at
+  > a rate of  twenty percent a *month.*  The number of `host'
+  > machines with direct  connection to TCP/IP has been doubling
+  > every year since  1988.   The Internet is moving out of  its
+  > original base in military and  research institutions,  into
+  > elementary and high schools, as well as into  public libraries
+  > and the commercial sector.
+
+  References
+  ==========
+
+  Bowers, K., T. LaQuey, J. Reynolds, K. Roubicek, M. Stahl, and A.
+  Yuan, ``Where to Start - A Bibliography of General Internetworking
+  Information'' (RFC-1175), CNRI, U Texas, ISI, BBN, SRI, Mitre,
+  August 1990.
+
+  The Whole Internet Catalog & User's Guide by Ed Krol.  (1992)
+  O'Reilly  and Associates, Inc.
+  ---
+    A clear, non-jargonized introduction to the  intimidating business
+    of network literacy written in humorous style.
+
+  Krol, E., ``The Hitchhikers Guide to the Internet'' (RFC-1118),
+  University of Illinois Urbana, September 1989.
+
+  ``The User's Directory to Computer Networks'', by Tracy LaQuey.
+
+  The Matrix: Computer Networks and Conferencing Systems Worldwide. 
+  by John Quarterman.  Digital Press: Bedford, MA. (1990)  
+  ---
+    Massive and highly technical compendium detailing the
+    mind-boggling scope and  complexity of global internetworks.
+
+  ``!%@:: A Directory of Electronic Mail Addressing and Networks'' by
+  Donnalyn Frey and Rick Adams.
+      
+  The Internet Companion, by Tracy LaQuey with Jeanne C. Ryer (1992)  
+  Addison Wesley. 
+  ---
+    ``Evangelical'' etiquette guide to the Internet featuring 
+    anecdotal tales of life-changing Internet experiences.  Foreword
+    by  Senator Al Gore.
+
+  Zen and the Art of the Internet: A Beginner's Guide by Brendan P. 
+  Kehoe (1992)  Prentice Hall. 
+  ---
+    Brief but useful Internet guide with  plenty of good advice on
+    useful databases.
+
+
+  See also ftp.eff.com:/pub/internet-info/.  (Thanks to Bruce Sterling
+  <bruces@well.sf.ca.us> for contributions here.)
+
+
+  General
+  =======
+
+  Cunningham, Scott and Alan L. Porter. ``Communication Networks: A
+  dozen  ways they'll change our lives.'' The Futurist 26, 1
+  (January-February,  1992): 19-22.
+
+  Brian Kahin, ed., BUILDING INFORMATION INFRASTRUCTURE (New York: 
+  McGraw-Hill, 1992) ISBN# 0-390-03083-X
+  ---
+    Essays on information infrastructure.  Policy and design issues,
+    research and NREN, future visions, information markets.  See
+    table  of contents in ftp.eff.org:/pub/pub-infra/1992-03.
+
+  Shapard, Jeffrey. ``Observations on Cross-Cultural Electronic 
+  Networking.'' Whole Earth Review (Winter) 1990: 32-35.
+
+  Varley, Pamela. ``Electronic Democracy.'' Technology Review 
+  (November/December, 1991): 43-51.
+
+______
+<7.2> How Internet `anarchy' like the English language?
+
+  According to Bruce Sterling <bruces@well.sf.ca.us>:
+
+  > The Internet's `anarchy' may seem strange or even unnatural,  but
+  > it makes a certain deep and basic sense.  It's rather like the 
+  > `anarchy' of the English language.  Nobody rents English, and
+  > nobody  owns English.    As an English-speaking person, it's up
+  > to you to learn  how to speak English properly  and make whatever
+  > use you please  of it (though the government provides certain
+  > subsidies to help you  learn to read and write a bit).  
+  > Otherwise, everybody just sort of  pitches in, and somehow the
+  > thing evolves on its own, and somehow  turns out workable.  And
+  > interesting.   Fascinating, even.   Though a lot  of people earn
+  > their living from using and exploiting  and teaching  English,
+  > `English' as an institution is public property, a public good.  
+  > Much the same goes for the Internet.   Would English  be improved
+  > if  the `The English Language, Inc.'  had a board of directors
+  > and a chief  executive officer, or a President and a Congress?  
+  > There'd probably be  a lot fewer new words in English, and a lot
+  > fewer new ideas.  
+
+
+_____
+<7.3> Most Wanted list
+
+  Hopefully you have benefitted from this creation, compilation, and
+  condensation of information from various sources regarding privacy,
+  identity, and anonymity on the internet.  The author is committed
+  to keeping this up-to-date and strengthening it, but this can only
+  be effective with your feedback.  In particular, the following
+  items are sought:
+  
+  - Short summaries of RFC documents and other references listed,
+    esp. CPSR files.
+  - More data on the specific uses and penetration of RFC-931.
+  - Internet traffic statistics.  How much is email?  How much
+    USENET?  What are the costs involved?
+  - Famous or obscure examples of compromised privacy
+    on the internet.
+        - FTP site for the code (NOT the code) to turn the .plan file into a
+                named pipe for sensing/reacting to remote `fingers'.
+  - Knowledge on the `promiscuous' mode of receipt or transmission 
+    on network  cards.
+  - Details on the infamous experiment where a scientist resubmitted 
+    previously accepted papers to a prominent journal with new and
+    unknown authors that were subsequently rejected.
+  - X Windows, EFF, CPSR FAQhood in news.answers.
+  
+  Commerical use of this document is negotiable and is a way for the
+  author to recoup from a significant time investment. Email feedback
+  to ld231782@longs.lance.colostate.edu.  Please note where you saw
+  this (which newsgroup, etc.).
+
+_____
+<7.4> Change history
+
+  3/3/93 v2.1 (current)
+    
+    CPSR pointer, new UNIX mode examples, digital telephony act,
+    Steve Jackson incident, additions/ reorganization to
+    anonymity section, part 3.  Note: v2.0 post to sci.crypt,
+    alt.privacy, news.answers, alt.answers, sci.answers was cancelled
+    by J. Kamens because of incorrect subject line.
+    
+  2/14/93 v2.0
+
+    Major revisions.  New section for X Windows.  Some email privacy
+    items reorganized to network security section.  New sections for
+    email liability issues, anonymity history and responsibilities. 
+    Split into three files.  Many new sources added, particularly
+    from EFF and CAF in new `issues' part. `commentary' from 
+    news.admin.policy.  21 day automated posting starts.
+
+  2/3/93 v1.0
+
+    More newsgroups & FAQs added.  More `Most Wanted'.  Posted to
+    news.answers.  Future monthly posting to sci.crypt, alt.privacy.
+
+  2/1/93 v0.3
+  
+    Formatted to 72 columns for quoting etc. `miscellaneous,'
+    `resources' sections added with cypherpunk servers and use
+    warnings.  More UNIX examples (`ls' and `chmod').  Posted to
+    alt.privacy, comp.society.privacy.
+  
+  1/29/93 v0.2
+    
+    `Identity' and `Privacy' sections added.  `Anonymity' expanded.
+    Remailer addresses removed due to lack of information and
+    instability.  Posted to sci.crypt.
+  
+  1/25/93 v0.1
+  
+    Originally posted to the cypherpunks mailing list on 1/25/93 as a
+    call to organize a list of anonymous servers.
+  
+  email ld231782@longs.lance.colostate.edu for earlier versions.
+
+
+* * *
+
+SEE ALSO
+========
+
+Part 1 (previous file)
+------
+
+<1.1> What is `identity' on the internet?
+<1.2> Why is identity (un)important on the internet?
+<1.3> How does my email address (not) identify me and my background?
+<1.4> How can I find out more about somebody from their email address?
+<1.5> Why is identification (un)stable on the internet? 
+<1.6> What is the future of identification on the internet?
+
+<2.1> What is `privacy' on the internet?
+<2.2> Why is privacy (un)important on the internet?
+<2.3> How (in)secure are internet networks?
+<2.4> How (in)secure is my account?
+<2.5> How (in)secure are my files and directories?
+<2.6> How (in)secure is X Windows?
+<2.7> How (in)secure is my email?
+<2.8> How am I (not) liable for my email and postings?
+<2.9> How do I provide more/less information to others on my identity?
+<2.10> Who is my sysadmin?  What does s/he know about me?
+<2.11> Why is privacy (un)stable on the internet?
+<2.12> What is the future of privacy on the internet?
+
+<3.1> What is `anonymity' on the internet?
+<3.2> Why is `anonymity' (un)important on the internet?
+<3.3> How can anonymity be protected on the internet?
+<3.4> What is `anonymous mail'?
+<3.5> What is `anonymous posting'?
+<3.6> Why is anonymity (un)stable on the internet?
+<3.7> What is the future of anonymity on the internet?
+
+Part 3 (next file)
+------
+
+<8.1> What are some known anonymous remailing and posting sites?
+<8.2> What are the responsibilities associated with anonymity?
+<8.3> How do I `kill' anonymous postings?
+<8.4> What is the history behind anonymous posting servers?
+<8.5> What is the value of anonymity?
+<8.6> Should anonymous posting to all groups be allowed?
+<8.7> What should system operators do with anonymous postings?
+<8.8> What is going on with anon.penet.fi maintained by J. Helsingius?
+
+
+* * *
+
+This is Part 2 of the Privacy & Anonymity FAQ, obtained via anonymous
+  FTP to pit-manager@mit.edu:/pub/usenet/news.answers/net-privacy/ or 
+  newsgroups news.answers, sci.answers, alt.answers every 21 days.
+Written by L. Detweiler <ld231782@longs.lance.colostate.edu>.
+All rights reserved.
