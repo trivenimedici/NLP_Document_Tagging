@@ -1,0 +1,10 @@
+{
+    "columnnames":{
+        "SNO":"Integer",
+        "ARTICLE_ID":"Integer",
+        "ARTICLE_TEXT":"String",
+        "ARTICLE_CATEGORY":"String",
+        "KEYWORDS":"List",
+        "NO_OF_KEYWORDS":"Integer"
+    }
+}
