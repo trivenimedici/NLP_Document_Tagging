@@ -1,0 +1,502 @@
+2024-01-02_11:57:52		Start of Prediction
+2024-01-02_11:57:52		Entered the get_data method of the Data_Getter class
+2024-01-02_11:57:53		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-02_11:57:53		Entered the load_model method of the File_Operation class
+2024-01-02_11:57:53		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-02_11:57:54		Error occured while running the prediction!! Error:: 'csr_matrix' object has no attribute 'lower'
+2024-01-02_12:00:08		Start of Prediction
+2024-01-02_12:00:09		Entered the get_data method of the Data_Getter class
+2024-01-02_12:00:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-02_12:00:19		Entered the load_model method of the File_Operation class
+2024-01-02_12:00:19		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-02_12:01:03		Error occured while running the prediction!! Error:: 'csr_matrix' object has no attribute 'lower'
+2024-01-02_12:02:29		Start of Prediction
+2024-01-02_12:02:31		Entered the get_data method of the Data_Getter class
+2024-01-02_12:02:32		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-02_12:02:36		Entered the load_model method of the File_Operation class
+2024-01-02_12:02:36		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-02_12:02:45		Entered the load_model method of the File_Operation class
+2024-01-02_12:02:45		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_14:19:48		Error occured while running the prediction!! Error:: X has 38365 features, but LogisticRegression is expecting 40110 features as input.
+2024-01-03_14:21:05		Start of Prediction
+2024-01-03_14:21:05		Entered the get_data method of the Data_Getter class
+2024-01-03_14:21:06		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_14:21:06		Entered the load_model method of the File_Operation class
+2024-01-03_14:21:06		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_14:21:06		Error occured while running the prediction!! Error:: The TF-IDF vectorizer is not fitted
+2024-01-03_14:21:19		Start of Prediction
+2024-01-03_14:21:19		Entered the get_data method of the Data_Getter class
+2024-01-03_14:21:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_14:21:19		Entered the load_model method of the File_Operation class
+2024-01-03_14:21:19		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_14:21:19		Error occured while running the prediction!! Error:: The TF-IDF vectorizer is not fitted
+2024-01-03_14:22:24		Start of Prediction
+2024-01-03_14:22:24		Entered the get_data method of the Data_Getter class
+2024-01-03_14:22:24		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_14:22:24		Entered the load_model method of the File_Operation class
+2024-01-03_14:22:24		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_14:22:25		Entered the load_model method of the File_Operation class
+2024-01-03_14:22:25		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_14:22:25		Error occured while running the prediction!! Error:: X has 38365 features, but LogisticRegression is expecting 40110 features as input.
+2024-01-03_14:23:47		Start of Prediction
+2024-01-03_14:23:47		Entered the get_data method of the Data_Getter class
+2024-01-03_14:23:47		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_14:23:47		Entered the load_model method of the File_Operation class
+2024-01-03_14:23:47		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_14:23:48		Error occured while running the prediction!! Error:: 'csr_matrix' object has no attribute 'lower'
+2024-01-03_14:26:28		Start of Prediction
+2024-01-03_14:26:28		Entered the get_data method of the Data_Getter class
+2024-01-03_14:26:28		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_14:26:28		Entered the load_model method of the File_Operation class
+2024-01-03_14:26:28		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_14:26:30		Error occured while running the prediction!! Error:: 'numpy.ndarray' object has no attribute 'lower'
+2024-01-03_14:27:56		Start of Prediction
+2024-01-03_14:27:56		Entered the get_data method of the Data_Getter class
+2024-01-03_14:27:56		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_14:27:56		Entered the load_model method of the File_Operation class
+2024-01-03_14:27:56		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_14:30:10		Error occured while running the prediction!! Error:: 'numpy.ndarray' object has no attribute 'lower'
+2024-01-03_14:40:06		Start of Prediction
+2024-01-03_14:40:06		Entered the get_data method of the Data_Getter class
+2024-01-03_14:40:08		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_14:40:12		Entered the load_model method of the File_Operation class
+2024-01-03_14:40:12		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_14:40:23		Entered the load_model method of the File_Operation class
+2024-01-03_14:40:23		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_14:43:26		Error occured while running the prediction!! Error:: X has 31353 features, but LogisticRegression is expecting 40110 features as input.
+2024-01-03_14:56:58		Start of Prediction
+2024-01-03_14:56:59		Entered the get_data method of the Data_Getter class
+2024-01-03_14:57:01		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_14:57:07		Entered the load_model method of the File_Operation class
+2024-01-03_14:57:07		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_14:58:43		Error occured while running the prediction!! Error:: 'LogisticRegression' object has no attribute 'feature_names'
+2024-01-03_15:06:09		Start of Prediction
+2024-01-03_15:06:09		Entered the get_data method of the Data_Getter class
+2024-01-03_15:06:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_15:06:15		Entered the load_model method of the File_Operation class
+2024-01-03_15:06:15		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_15:06:46		Error occured while running the prediction!! Error:: 'LogisticRegression' object has no attribute 'feature_names'
+2024-01-03_15:13:48		Start of Prediction
+2024-01-03_15:13:49		Entered the get_data method of the Data_Getter class
+2024-01-03_15:13:51		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_15:13:55		Entered the load_model method of the File_Operation class
+2024-01-03_15:13:55		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_15:14:17		Entered the load_model method of the File_Operation class
+2024-01-03_15:14:17		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_15:37:39		Error occured while running the prediction!! Error:: X has 31353 features, but LogisticRegression is expecting 40110 features as input.
+2024-01-03_15:39:29		Start of Prediction
+2024-01-03_15:39:30		Entered the get_data method of the Data_Getter class
+2024-01-03_15:39:31		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_15:39:37		Entered the load_model method of the File_Operation class
+2024-01-03_15:39:37		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_15:40:23		Error occured while running the prediction!! Error:: "None of [Index(['00', '000', '0000', '00000', '0000000004', '0000000005', '0000001200',\n       '0001', '000152', '0002',\n       ...\n       'zurich', 'zvi', 'zwart', 'zx', 'zx900a', 'zxxst', 'zyeh', 'zyxel',\n       'zz', 'zzzzzz'],\n      dtype='object', length=40110)] are in the [index]"
+2024-01-03_15:41:23		Start of Prediction
+2024-01-03_15:41:24		Entered the get_data method of the Data_Getter class
+2024-01-03_15:41:25		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_15:41:28		Entered the load_model method of the File_Operation class
+2024-01-03_15:41:28		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_15:43:19		Error occured while running the prediction!! Error:: "None of [Index(['00', '000', '0000', '00000', '0000000004', '0000000005', '0000001200',\n       '0001', '000152', '0002',\n       ...\n       'zurich', 'zvi', 'zwart', 'zx', 'zx900a', 'zxxst', 'zyeh', 'zyxel',\n       'zz', 'zzzzzz'],\n      dtype='object', length=40110)] are in the [index]"
+2024-01-03_16:18:07		Start of Prediction
+2024-01-03_16:18:07		Entered the get_data method of the Data_Getter class
+2024-01-03_16:18:07		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_16:18:07		Entered the load_model method of the File_Operation class
+2024-01-03_16:18:07		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_16:18:09		Error occured while running the prediction!! Error:: 'csr_matrix' object has no attribute 'lower'
+2024-01-03_16:20:50		Start of Prediction
+2024-01-03_16:20:52		Entered the get_data method of the Data_Getter class
+2024-01-03_16:20:52		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_16:20:57		Entered the load_model method of the File_Operation class
+2024-01-03_16:20:57		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_16:22:21		Error occured while running the prediction!! Error:: 'csr_matrix' object has no attribute 'lower'
+2024-01-03_16:24:46		Start of Prediction
+2024-01-03_16:24:47		Entered the get_data method of the Data_Getter class
+2024-01-03_16:24:48		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_16:24:54		Entered the load_model method of the File_Operation class
+2024-01-03_16:24:54		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_16:25:03		Entered the load_model method of the File_Operation class
+2024-01-03_16:25:03		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_16:25:08		End of Prediction
+2024-01-03_16:26:56		Start of Prediction
+2024-01-03_16:26:56		Entered the get_data method of the Data_Getter class
+2024-01-03_16:26:56		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_16:26:56		Entered the load_model method of the File_Operation class
+2024-01-03_16:26:56		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_16:26:59		Entered the load_model method of the File_Operation class
+2024-01-03_16:26:59		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_16:26:59		End of Prediction
+2024-01-03_16:28:56		Start of Prediction
+2024-01-03_16:28:56		Entered the get_data method of the Data_Getter class
+2024-01-03_16:28:56		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_16:28:56		Error occured while running the prediction!! Error:: Preprocesser.__init__() takes 1 positional argument but 2 were given
+2024-01-03_16:31:30		Start of Prediction
+2024-01-03_16:31:30		Entered the get_data method of the Data_Getter class
+2024-01-03_16:31:30		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_16:31:30		Error occured while running the prediction!! Error:: Preprocesser.__init__() takes 1 positional argument but 2 were given
+2024-01-03_16:32:55		Start of Prediction
+2024-01-03_16:32:55		Entered the get_data method of the Data_Getter class
+2024-01-03_16:32:55		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_16:32:55		Error occured while running the prediction!! Error:: Preprocesser.__init__() takes 1 positional argument but 2 were given
+2024-01-03_17:44:46		Start of Prediction
+2024-01-03_17:44:48		Entered the get_data method of the Data_Getter class
+2024-01-03_17:44:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_17:52:55		Error occured while running the prediction!! Error:: Preprocesser.__init__() takes 1 positional argument but 2 were given
+2024-01-03_18:29:08		Start of Prediction
+2024-01-03_18:29:08		Entered the get_data method of the Data_Getter class
+2024-01-03_18:29:08		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_18:29:08		Error occured while running the prediction!! Error:: Preprocesser.__init__() takes 1 positional argument but 2 were given
+2024-01-03_18:33:00		Start of Prediction
+2024-01-03_18:33:00		Entered the get_data method of the Data_Getter class
+2024-01-03_18:33:01		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_18:33:35		Error occured while running the prediction!! Error:: Preprocesser.__init__() takes 1 positional argument but 2 were given
+2024-01-03_18:42:59		Start of Prediction
+2024-01-03_18:42:59		Entered the get_data method of the Data_Getter class
+2024-01-03_18:42:59		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_18:42:59		Error occured while running the prediction!! Error:: 
+2024-01-03_18:46:48		Start of Prediction
+2024-01-03_18:46:48		Entered the get_data method of the Data_Getter class
+2024-01-03_18:46:48		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_18:46:48		Error occured while running the prediction!! Error:: 
+2024-01-03_18:51:40		Start of Prediction
+2024-01-03_18:51:40		Entered the get_data method of the Data_Getter class
+2024-01-03_18:51:40		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_18:51:40		Error occured while running the prediction!! Error:: 
+2024-01-03_19:00:33		Start of Prediction
+2024-01-03_19:00:33		Entered the get_data method of the Data_Getter class
+2024-01-03_19:00:33		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_19:00:33		Error occured while running the prediction!! Error:: 
+2024-01-03_19:03:51		Start of Prediction
+2024-01-03_19:03:53		Entered the get_data method of the Data_Getter class
+2024-01-03_19:03:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_19:06:23		Error occured while running the prediction!! Error:: 
+2024-01-03_19:11:04		Start of Prediction
+2024-01-03_19:11:04		Entered the get_data method of the Data_Getter class
+2024-01-03_19:11:04		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_19:11:04		Error occured while running the prediction!! Error:: 
+2024-01-03_19:12:39		Start of Prediction
+2024-01-03_19:12:40		Entered the get_data method of the Data_Getter class
+2024-01-03_19:12:42		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_19:17:38		Error occured while running the prediction!! Error:: 
+2024-01-03_19:19:34		Start of Prediction
+2024-01-03_19:19:34		Entered the get_data method of the Data_Getter class
+2024-01-03_19:19:36		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_19:19:36		Error occured while running the prediction!! Error:: 
+2024-01-03_19:19:35		Start of Prediction
+2024-01-03_19:19:35		Entered the get_data method of the Data_Getter class
+2024-01-03_19:19:36		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_19:20:40		Error occured while running the prediction!! Error:: 
+2024-01-03_19:26:34		Start of Prediction
+2024-01-03_19:26:34		Entered the get_data method of the Data_Getter class
+2024-01-03_19:26:35		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_19:27:46		Entered the load_model method of the File_Operation class
+2024-01-03_19:27:46		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_19:27:46		The column values for the prediction data for xgboost  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-03_19:27:46		Error occured while running the prediction!! Error:: "None of [Index(['00', '000', '01', '02', '03', '04', '040', '05', '06', '07',\n       ...\n       'zeus', 'zionism', 'zionist', 'zip', 'zisfein', 'zone', 'zoo',\n       'zoology', 'zuma', 'zx'],\n      dtype='object', length=5000)] are in the [index]"
+2024-01-03_19:29:50		Start of Prediction
+2024-01-03_19:29:50		Entered the get_data method of the Data_Getter class
+2024-01-03_19:29:51		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_19:29:51		Entered the load_model method of the File_Operation class
+2024-01-03_19:29:51		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_19:29:51		The column values for the prediction data for xgboost  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-03_19:29:51		Error occured while running the prediction!! Error:: "None of [Index(['00', '000', '01', '02', '03', '04', '040', '05', '06', '07',\n       ...\n       'zeus', 'zionism', 'zionist', 'zip', 'zisfein', 'zone', 'zoo',\n       'zoology', 'zuma', 'zx'],\n      dtype='object', length=5000)] are in the [index]"
+2024-01-03_19:35:36		Start of Prediction
+2024-01-03_19:35:36		Entered the get_data method of the Data_Getter class
+2024-01-03_19:35:36		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_19:35:36		Entered the load_model method of the File_Operation class
+2024-01-03_19:35:36		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_19:35:36		The column values for the prediction data for xgboost  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-03_19:35:36		Error occured while running the prediction!! Error:: "None of [Index(['00', '000', '01', '02', '03', '04', '040', '05', '06', '07',\n       ...\n       'zeus', 'zionism', 'zionist', 'zip', 'zisfein', 'zone', 'zoo',\n       'zoology', 'zuma', 'zx'],\n      dtype='object', length=5000)] are in the [index]"
+2024-01-03_19:41:22		Start of Prediction
+2024-01-03_19:41:26		Entered the get_data method of the Data_Getter class
+2024-01-03_19:41:51		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_19:42:15		Entered the load_model method of the File_Operation class
+2024-01-03_19:42:15		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_19:42:17		The column values for the prediction data for xgboost  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-03_19:42:27		Error occured while running the prediction!! Error:: "None of [Index(['00', '000', '01', '02', '03', '04', '040', '05', '06', '07',\n       ...\n       'zeus', 'zionism', 'zionist', 'zip', 'zisfein', 'zone', 'zoo',\n       'zoology', 'zuma', 'zx'],\n      dtype='object', length=5000)] are in the [index]"
+2024-01-03_19:43:28		Start of Prediction
+2024-01-03_19:43:35		Entered the get_data method of the Data_Getter class
+2024-01-03_19:44:42		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_19:45:48		Entered the load_model method of the File_Operation class
+2024-01-03_19:45:48		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_19:45:51		The column values for the prediction data for xgboost  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-03_19:55:51		Error occured while running the prediction!! Error:: "None of [Index(['00', '000', '01', '02', '03', '04', '040', '05', '06', '07',\n       ...\n       'zeus', 'zionism', 'zionist', 'zip', 'zisfein', 'zone', 'zoo',\n       'zoology', 'zuma', 'zx'],\n      dtype='object', length=5000)] are in the [index]"
+2024-01-03_19:59:17		Start of Prediction
+2024-01-03_19:59:18		Entered the get_data method of the Data_Getter class
+2024-01-03_19:59:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_19:59:25		Entered the load_model method of the File_Operation class
+2024-01-03_19:59:25		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_19:59:28		The column values for the prediction data for xgboost  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-03_19:59:41		Entered the load_model method of the File_Operation class
+2024-01-03_19:59:41		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_20:00:02		Error occured while running the prediction!! Error:: X has 148 features, but LogisticRegression is expecting 5000 features as input.
+2024-01-03_20:04:00		Start of Prediction
+2024-01-03_20:04:00		Entered the get_data method of the Data_Getter class
+2024-01-03_20:04:03		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_20:06:42		Entered the load_model method of the File_Operation class
+2024-01-03_20:06:42		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_20:06:42		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-03_20:06:42		Entered the load_model method of the File_Operation class
+2024-01-03_20:06:42		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_20:06:42		Error occured while running the prediction!! Error:: X has 148 features, but LogisticRegression is expecting 5000 features as input.
+2024-01-03_20:18:04		Start of Prediction
+2024-01-03_20:18:04		Entered the get_data method of the Data_Getter class
+2024-01-03_20:18:06		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_20:18:12		Entered the load_model method of the File_Operation class
+2024-01-03_20:18:12		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_20:18:14		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-03_20:18:17		Entered the load_model method of the File_Operation class
+2024-01-03_20:18:17		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_20:20:15		Error occured while running the prediction!! Error:: X has 148 features, but LogisticRegression is expecting 5000 features as input.
+2024-01-03_20:22:20		Start of Prediction
+2024-01-03_20:22:21		Entered the get_data method of the Data_Getter class
+2024-01-03_20:22:22		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_20:22:26		Entered the load_model method of the File_Operation class
+2024-01-03_20:22:26		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_20:22:27		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-03_20:27:50		Error occured while running the prediction!! Error:: could not convert string to float: 'from lipmanoasysdtnavymil robert lipman  subject call for presentations navy scivizvr seminar  articleid oasys32850  expires 30 apr 93 040000 gmt  replyto lipmanoasysdtnavymil robert lipman  distribution usa  organization carderock division nswc bethesda md  lines 65      \t\t\tcall for presentations  \t        navy scientific visualization and virtual reality seminar    \t\t\ttuesday june 22 1993    \t    carderock division naval surface warfare center  \t      formerly the david taylor research center  \t\t\t  bethesda maryland    sponsor ness navy engineering software system is sponsoring a   oneday navy scientific visualization and virtual reality seminar    the purpose of the seminar is to present and exchange information for  navyrelated scientific visualization and virtual reality programs   research developments and applications    presentations presentations are solicited on all aspects of   navyrelated scientific visualization and virtual reality  all   current work worksinprogress and proposed work by navy   organizations will be considered  four types of presentations are   available         1 regular presentation 2030 minutes in length       2 short presentation 10 minutes in length       3 video presentation a standalone videotape author need not   \tattend the seminar       4 scientific visualization or virtual reality demonstration byoh    accepted presentations will not be published in any proceedings   however viewgraphs and other materials will be reproduced for   seminar attendees    abstracts authors should submit a one page abstract andor videotape to         robert lipman       naval surface warfare center carderock division       code 2042       bethesda maryland  200845000         voice 301 2273618  fax 301 2275753         email  lipmanoasysdtnavymil    authors should include the type of presentation their affiliations   addresses telephone and fax numbers and addresses  multiauthor   papers should designate one point of contact    deadlines the abstact submission deadline is april 30 1993    notification of acceptance will be sent by may 14 1993    materials for reproduction must be received by june 1 1993    for further information contact robert lipman at the above address    \t  please distribute as widely as possible thanks          robert lipman                      internet lipmanoasysdtnavymil  david taylor model basin  cdnswc        or lipoceandtnavymil  computational signatures and       voicenet 301 2273618     structures group code 2042     factsnet 301 2275753  bethesda maryland  200845000     phishnet stockingslonglegs  \t\t\t\t     the sixth sick shieks sixth sheeps sick'
+2024-01-03_20:29:15		Start of Prediction
+2024-01-03_20:29:17		Entered the get_data method of the Data_Getter class
+2024-01-03_20:29:18		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-03_20:29:23		Entered the load_model method of the File_Operation class
+2024-01-03_20:29:23		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-03_20:29:25		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-03_20:31:19		Error occured while running the prediction!! Error:: 'Series' object has no attribute 'toarray'
+2024-01-04_10:30:26		Start of Prediction
+2024-01-04_10:30:27		Entered the get_data method of the Data_Getter class
+2024-01-04_10:30:28		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-04_10:30:33		Entered the load_model method of the File_Operation class
+2024-01-04_10:30:33		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_10:30:34		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-04_10:30:39		Entered the load_model method of the File_Operation class
+2024-01-04_10:30:39		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_10:34:32		Error occured while running the prediction!! Error:: X has 148 features, but LogisticRegression is expecting 5000 features as input.
+2024-01-04_10:39:09		Start of Prediction
+2024-01-04_10:39:10		Entered the get_data method of the Data_Getter class
+2024-01-04_10:39:10		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-04_10:39:15		Entered the load_model method of the File_Operation class
+2024-01-04_10:39:15		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_10:39:16		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-04_10:39:34		Entered the load_model method of the File_Operation class
+2024-01-04_10:39:34		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_10:41:25		Error occured while running the prediction!! Error:: X has 148 features, but LogisticRegression is expecting 5000 features as input.
+2024-01-04_11:14:52		Start of Prediction
+2024-01-04_11:14:53		Entered the get_data method of the Data_Getter class
+2024-01-04_11:14:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-04_11:17:06		Entered the load_model method of the File_Operation class
+2024-01-04_11:17:06		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_11:17:09		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-04_11:17:09		Error occured while running the prediction!! Error:: X has 148 features, but LogisticRegression is expecting 5000 features as input.
+2024-01-04_11:22:31		Start of Prediction
+2024-01-04_11:22:33		Entered the get_data method of the Data_Getter class
+2024-01-04_11:22:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-04_11:23:26		Entered the load_model method of the File_Operation class
+2024-01-04_11:23:26		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_11:25:01		Entered the load_model method of the File_Operation class
+2024-01-04_11:25:01		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_11:25:09		End of Prediction
+2024-01-04_11:26:32		Start of Prediction
+2024-01-04_11:26:33		Entered the get_data method of the Data_Getter class
+2024-01-04_11:26:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-04_11:27:04		Entered the load_model method of the File_Operation class
+2024-01-04_11:27:04		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_11:27:05		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-04_11:30:25		Error occured while running the prediction!! Error:: X has 148 features, but LogisticRegression is expecting 5000 features as input.
+2024-01-04_11:32:08		Start of Prediction
+2024-01-04_11:32:10		Entered the get_data method of the Data_Getter class
+2024-01-04_11:32:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-04_11:32:56		Entered the load_model method of the File_Operation class
+2024-01-04_11:32:56		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_11:51:28		Entered the load_model method of the File_Operation class
+2024-01-04_11:51:28		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_11:51:28		End of Prediction
+2024-01-04_11:56:26		Start of Prediction
+2024-01-04_11:56:26		Entered the get_data method of the Data_Getter class
+2024-01-04_11:56:26		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-04_11:56:26		Entered the load_model method of the File_Operation class
+2024-01-04_11:56:26		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_11:56:30		Entered the load_model method of the File_Operation class
+2024-01-04_11:56:30		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_11:56:30		End of Prediction
+2024-01-04_11:57:43		Start of Prediction
+2024-01-04_11:57:43		Entered the get_data method of the Data_Getter class
+2024-01-04_11:57:43		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-04_11:57:43		Entered the load_model method of the File_Operation class
+2024-01-04_11:57:43		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_11:57:43		The column values for the prediction data for logistic  is ['edu' 'lines' 'organization' 'subject']
+2024-01-04_11:57:43		Error occured while running the prediction!! Error:: max_df corresponds to < documents than min_df
+2024-01-04_12:00:20		Start of Prediction
+2024-01-04_12:00:20		Entered the get_data method of the Data_Getter class
+2024-01-04_12:00:21		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-04_12:00:27		Entered the load_model method of the File_Operation class
+2024-01-04_12:00:27		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_12:00:30		The column values for the prediction data for logistic  is ['edu' 'lines' 'organization' 'subject']
+2024-01-04_12:04:32		Error occured while running the prediction!! Error:: max_df corresponds to < documents than min_df
+2024-01-04_12:08:35		Start of Prediction
+2024-01-04_12:08:35		Entered the get_data method of the Data_Getter class
+2024-01-04_12:08:36		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-04_12:08:36		Entered the load_model method of the File_Operation class
+2024-01-04_12:08:36		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_12:08:38		Entered the load_model method of the File_Operation class
+2024-01-04_12:08:38		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_12:08:38		Error occured while running the prediction!! Error:: X has 38372 features, but LogisticRegression is expecting 43539 features as input.
+2024-01-04_12:10:39		Start of Prediction
+2024-01-04_12:10:43		Entered the get_data method of the Data_Getter class
+2024-01-04_12:10:44		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-04_12:11:05		Entered the load_model method of the File_Operation class
+2024-01-04_12:11:05		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_12:11:34		Entered the load_model method of the File_Operation class
+2024-01-04_12:11:34		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_12:12:04		Error occured while running the prediction!! Error:: X has 38372 features, but LogisticRegression is expecting 43539 features as input.
+2024-01-04_12:13:59		Start of Prediction
+2024-01-04_12:13:59		Entered the get_data method of the Data_Getter class
+2024-01-04_12:13:59		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-04_12:13:59		Entered the load_model method of the File_Operation class
+2024-01-04_12:13:59		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_12:14:01		Entered the load_model method of the File_Operation class
+2024-01-04_12:14:01		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_12:14:01		End of Prediction
+2024-01-04_12:27:49		Start of Prediction
+2024-01-04_12:27:49		Entered the get_data method of the Data_Getter class
+2024-01-04_12:27:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-04_12:27:49		Entered the load_model method of the File_Operation class
+2024-01-04_12:27:49		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_12:27:51		Entered the load_model method of the File_Operation class
+2024-01-04_12:27:51		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_12:27:51		End of Prediction
+2024-01-04_12:28:08		Start of Prediction
+2024-01-04_12:28:08		Entered the get_data method of the Data_Getter class
+2024-01-04_12:28:08		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-04_12:28:08		Entered the load_model method of the File_Operation class
+2024-01-04_12:28:08		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_12:28:08		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-04_12:28:08		Error occured while running the prediction!! Error:: X has 158 features, but LogisticRegression is expecting 5000 features as input.
+2024-01-04_12:30:25		Start of Prediction
+2024-01-04_12:30:26		Entered the get_data method of the Data_Getter class
+2024-01-04_12:30:27		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-04_12:30:38		Entered the load_model method of the File_Operation class
+2024-01-04_12:30:38		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_12:30:40		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-04_12:33:17		Error occured while running the prediction!! Error:: X has 158 features, but LogisticRegression is expecting 5000 features as input.
+2024-01-04_12:43:11		Start of Prediction
+2024-01-04_12:43:13		Entered the get_data method of the Data_Getter class
+2024-01-04_12:43:14		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-04_12:44:22		Entered the load_model method of the File_Operation class
+2024-01-04_12:44:22		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-04_12:44:23		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-04_12:46:26		Error occured while running the prediction!! Error:: cannot reshape array of size 158 into shape (1, 5000)
+2024-01-05_12:10:17		Start of Prediction
+2024-01-05_12:10:17		Entered the get_data method of the Data_Getter class
+2024-01-05_12:10:17		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-05_12:10:17		Entered the load_model method of the File_Operation class
+2024-01-05_12:10:17		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-05_12:10:20		Entered the load_model method of the File_Operation class
+2024-01-05_12:10:20		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-05_12:10:20		End of Prediction
+2024-01-05_12:11:36		Start of Prediction
+2024-01-05_12:11:36		Entered the get_data method of the Data_Getter class
+2024-01-05_12:11:36		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-05_12:11:36		Entered the load_model method of the File_Operation class
+2024-01-05_12:11:36		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-05_12:11:38		Error occured while running the prediction!! Error:: adding a nonzero scalar to a sparse array is not supported
+2024-01-05_12:12:43		Start of Prediction
+2024-01-05_12:12:43		Entered the get_data method of the Data_Getter class
+2024-01-05_12:12:43		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-05_12:12:43		Entered the load_model method of the File_Operation class
+2024-01-05_12:12:43		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-05_12:12:45		Error occured while running the prediction!! Error:: can only concatenate str (not "tuple") to str
+2024-01-05_12:13:39		Start of Prediction
+2024-01-05_12:13:39		Entered the get_data method of the Data_Getter class
+2024-01-05_12:13:39		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-05_12:13:39		Entered the load_model method of the File_Operation class
+2024-01-05_12:13:39		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-05_12:13:41		Entered the load_model method of the File_Operation class
+2024-01-05_12:13:41		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-05_12:13:41		End of Prediction
+2024-01-05_12:14:37		Start of Prediction
+2024-01-05_12:14:37		Entered the get_data method of the Data_Getter class
+2024-01-05_12:14:37		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-05_12:14:37		Entered the load_model method of the File_Operation class
+2024-01-05_12:14:37		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-05_12:14:37		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-05_12:14:37		Error occured while running the prediction!! Error:: X has 158 features, but LogisticRegression is expecting 5000 features as input.
+2024-01-05_12:17:24		Start of Prediction
+2024-01-05_12:17:24		Entered the get_data method of the Data_Getter class
+2024-01-05_12:17:24		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-05_12:17:24		Entered the load_model method of the File_Operation class
+2024-01-05_12:17:24		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-05_12:17:24		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-05_12:17:24		End of Prediction
+2024-01-05_12:17:24		forsale
+2024-01-05_12:17:49		Start of Prediction
+2024-01-05_12:17:49		Entered the get_data method of the Data_Getter class
+2024-01-05_12:17:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-05_12:17:49		Entered the load_model method of the File_Operation class
+2024-01-05_12:17:49		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-05_12:17:49		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-05_12:17:49		End of Prediction
+2024-01-05_12:17:49		forsale
+2024-01-05_12:19:07		Start of Prediction
+2024-01-05_12:19:07		Entered the get_data method of the Data_Getter class
+2024-01-05_12:19:07		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-05_12:19:07		Entered the load_model method of the File_Operation class
+2024-01-05_12:19:07		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-05_12:19:07		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-05_12:19:07		End of Prediction
+2024-01-05_12:19:07		forsale
+2024-01-05_12:19:19		Start of Prediction
+2024-01-05_12:19:19		Entered the get_data method of the Data_Getter class
+2024-01-05_12:19:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-05_12:19:19		Entered the load_model method of the File_Operation class
+2024-01-05_12:19:19		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-05_12:19:19		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-05_12:19:19		End of Prediction
+2024-01-05_12:19:19		forsale
+2024-01-05_12:28:31		Start of Prediction
+2024-01-05_12:28:31		Entered the get_data method of the Data_Getter class
+2024-01-05_12:28:33		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-05_12:28:39		Entered the load_model method of the File_Operation class
+2024-01-05_12:28:39		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-05_12:28:42		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-05_12:29:24		End of Prediction
+2024-01-05_12:29:24		forsale
+2024-01-05_12:32:38		Start of Prediction
+2024-01-05_12:32:38		Entered the get_data method of the Data_Getter class
+2024-01-05_12:32:38		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-05_12:32:38		Entered the load_model method of the File_Operation class
+2024-01-05_12:32:38		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-05_12:32:38		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-05_12:32:38		End of Prediction
+2024-01-05_12:32:38		forsale
+2024-01-23_12:40:01		Start of Prediction
+2024-01-23_12:40:01		Entered the get_data method of the Data_Getter class
+2024-01-23_12:40:01		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-23_12:40:01		Entered the load_model method of the File_Operation class
+2024-01-23_12:40:01		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-23_12:40:01		The column values for the prediction data for logistic  is ['00' '000' '01' ... 'zoology' 'zuma' 'zx']
+2024-01-23_12:40:01		End of Prediction
+2024-01-23_12:40:01		forsale
+2024-01-23_12:40:43		Start of Prediction
+2024-01-23_12:40:43		Entered the get_data method of the Data_Getter class
+2024-01-23_12:40:43		Exception occured in get_data method of the Data_Getter class. Exception message: 'utf-8' codec can't decode byte 0xc2 in position 196928: invalid continuation byte
+2024-01-23_12:40:43		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2024-01-23_12:40:43		Error occured while running the prediction!! Error:: 
+2024-01-23_12:41:40		Start of Prediction
+2024-01-23_12:41:40		Entered the get_data method of the Data_Getter class
+2024-01-23_12:41:40		Exception occured in get_data method of the Data_Getter class. Exception message: 'utf-8' codec can't decode byte 0xc2 in position 196928: invalid continuation byte
+2024-01-23_12:41:40		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2024-01-23_12:41:40		Error occured while running the prediction!! Error:: 
+2024-01-23_12:42:24		Start of Prediction
+2024-01-23_12:42:24		Entered the get_data method of the Data_Getter class
+2024-01-23_12:42:25		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-23_12:42:25		Entered the load_model method of the File_Operation class
+2024-01-23_12:42:25		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-23_12:42:28		Entered the load_model method of the File_Operation class
+2024-01-23_12:42:28		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-23_12:42:28		End of Prediction
+2024-01-23_12:45:09		Start of Prediction
+2024-01-23_12:45:09		Entered the get_data method of the Data_Getter class
+2024-01-23_12:45:10		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-01-23_12:45:10		Entered the load_model method of the File_Operation class
+2024-01-23_12:45:10		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-23_12:45:13		Entered the load_model method of the File_Operation class
+2024-01-23_12:45:13		Model File Logistic loaded. Exited the load_model method of the Model_Finder class
+2024-01-23_12:45:13		End of Prediction
